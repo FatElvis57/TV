@@ -1,3 +1,29 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="PlutoTVMotor.us" group-title="Auto" tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png",Pluto TV Motor
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,CA: Sports net World HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2447.ts
+#EXTINF:-1,CA: SPORTS NET Pacific HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2448.ts
+#EXTINF:-1,CA: TSN 5
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/96.ts
+#EXTINF:-1,CA: TSN 4 HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/95.ts
+#EXTINF:-1,CA: TSN 3
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/94.ts
+#EXTINF:-1,CA: TSN 1
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/92.ts
+#EXTINF:-1,CA: sports net world hd
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3058.ts
+#EXTINF:-1,CA: Sports net West HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2449.ts
+#EXTINF:-1,CA: Sports net One HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2450.ts
+#EXTINF:-1,CA: sports net 360 hd
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3057.ts
+#EXTINF:-1,CA: SPORTS NET Ontario HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2451.ts
+#EXTINF:-1,CA: Fox news
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3013.ts
+#EXTINF:-1,CA: MOVIETIME HD
+http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/26967.ts
