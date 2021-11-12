@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="ESPN.us" group-title="Sports" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (360p)
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="ESPN.us" group-title="Sports" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (720p)
+http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1  tvg-id="ESPN2.us" group-title="Sports" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (720p)
+http://164.68.124.111/espn2.m3u8
+#EXTINF:-1  tvg-id="ESPN2.us" group-title="Sports" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (360p)
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
