@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="ESPN.us" group-title="Sports" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (360p)
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="ESPN.us" group-title="Sports" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (720p)
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1  tvg-id="ESPN2.us" group-title="Sports" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (720p)
-http://164.68.124.111/espn2.m3u8
-#EXTINF:-1  tvg-id="ESPN2.us" group-title="Sports" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (360p)
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="PlutoTVMotor.us" group-title="Auto" tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png",Pluto TV Motor
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-id="PowerNation.us" group-title="Auto" tvg-logo="https://i.imgur.com/iJmj6zC.png",Power Nation
+https://rtmtv-powernation-1.roku.wurl.com/manifest/playlist.m3u8
