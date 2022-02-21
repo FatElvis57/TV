@@ -1,83 +1,73 @@
 #EXTM3U
-#EXTINF:-1,NEWS: CP24
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/50880
-#EXTINF:-1,NEWS: CNN HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3054
-#EXTINF:-1,NEWS: The Weather Channel HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46729
-#EXTINF:-1,CRIME: Investigation Discovery
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46774
-#EXTINF:-1,CRIME: Law crime HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52728
-#EXTINF:-1,MOVIE: ActionMax
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48662
-#EXTINF:-1,MOVIE: AMC HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1537
-#EXTINF:-1,MOVIE: Cinemax 5
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46907
-#EXTINF:-1,MOVIE: Cinemax MoreMax HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46903
-#EXTINF:-1,MOVIE: Crime & Investigation HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46807
-#EXTINF:-1,MOVIE: FX HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46900
-#EXTINF:-1,MOVIE: FXM
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52726
-#EXTINF:-1,MOVIE: HallMark HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46898
-#EXTINF:-1,MOVIE: HBO Comedy HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46782
-#EXTINF:-1,MOVIE: Hallmark Drama HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46815
-#EXTINF:-1,MOVIE: HBO Family HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3051
-#EXTINF:-1,MOVIE: HBO HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46929
-#EXTINF:-1,MOVIE: Hallmark Movies & Mysteries
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46740
-#EXTINF:-1,MOVIE: HBO Signature HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46926
-#EXTINF:-1,MOVIE: HBO Zone
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46780
-#EXTINF:-1,MOVIE: Lifetime HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46773
-#EXTINF:-1,MOVIE: Lifetime Movies
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52729
-#EXTINF:-1,MOVIE: Paramount Network HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52734
-#EXTINF:-1,MOVIE: Spike / Paramount HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46734
-#EXTINF:-1,MOVIE: ShowTime HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46922
-#EXTINF:-1,MOVIE: ShowTime 2 HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46896
-#EXTINF:-1,MOVIE: Starz Edge
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46894
-#EXTINF:-1,MOVIE: Sundance HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46732
-#EXTINF:-1,MOVIE: Universal HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46723
-#EXTINF:-1,MOVIE: USA Network
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46719
-#EXTINF:-1,MOVIE: VH1 HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46717
-#EXTINF:-1,TV: SYFY HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46730
-#EXTINF:-1,TV: TBS HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3056
-#EXTINF:-1,TV: TLC HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46728
-#EXTINF:-1,TV: TNT HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46727
-#EXTINF:-1,SPORTS: TSN HD 1
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/458
-#EXTINF:-1,SPORTS: TSN HD 2
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/459
-#EXTINF:-1,SPORTS: TSN HD 3
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1527
-#EXTINF:-1,SPORTS: TSN 4 HD
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1526
-#EXTINF:-1,SPORTS: TSN HD 5
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1525
-#EXTINF:-1,SPORTS: UFC FIGHT PASS
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/50798
+#EXTINF:-1,US: SYFY
+http://stariptv.org:8080/wael2021/123456/148451
+#EXTINF:-1,US: TNT
+http://stariptv.org:8080/wael2021/123456/148474
+#EXTINF:-1,US: TBS
+http://stariptv.org:8080/wael2021/123456/148479
+#EXTINF:-1,US: TLC
+http://stariptv.org:8080/wael2021/123456/148488
+#EXTINF:-1,Movies: AMC
+http://stariptv.org:8080/wael2021/123456/148495
+#EXTINF:-1,Movies: Cinemax
+http://stariptv.org:8080/wael2021/123456/148473
+#EXTINF:-1,Movies: FX HD
+http://stariptv.org:8080/wael2021/123456/148463
+#EXTINF:-1,Movies: FXX HD
+http://stariptv.org:8080/wael2021/123456/148464
+#EXTINF:-1,Movies: HBO
+http://stariptv.org:8080/wael2021/123456/148468
+#EXTINF:-1,Movies: HBO Comedy
+http://stariptv.org:8080/wael2021/123456/148471
+#EXTINF:-1,Movies: HBO Family
+http://stariptv.org:8080/wael2021/123456/148512
+#EXTINF:-1,Movies: HBO Signature
+http://stariptv.org:8080/wael2021/123456/148470
+#EXTINF:-1,Movies: HBO Zone
+http://stariptv.org:8080/wael2021/123456/148469
+#EXTINF:-1,Movies: Hallmark Channel
+http://stariptv.org:8080/wael2021/123456/148520
+#EXTINF:-1,Movies: Lifetime Movie Network
+http://stariptv.org:8080/wael2021/123456/148519
+#EXTINF:-1,Movies: Showtime
+http://stariptv.org:8080/wael2021/123456/148472
+#EXTINF:-1,Movies: Starz Black
+http://stariptv.org:8080/wael2021/123456/148513
+#EXTINF:-1,Movies: Starz Cinema
+http://stariptv.org:8080/wael2021/123456/148514
+#EXTINF:-1,Movies: Starz Cinema East
+http://stariptv.org:8080/wael2021/123456/148515
+#EXTINF:-1,Movies: Starz Edge
+http://stariptv.org:8080/wael2021/123456/148516
+#EXTINF:-1,US: UFC Fight pass
+http://stariptv.org:8080/wael2021/123456/148517
+#EXTINF:-1,SPORTS: ESPN1
+http://stariptv.org:8080/wael2021/123456/148465
+#EXTINF:-1,SPORTS: ESPN2
+http://stariptv.org:8080/wael2021/123456/148466
+#EXTINF:-1,SPORTS: TSN 1
+http://stariptv.org:8080/wael2021/123456/148510
+#EXTINF:-1,SPORTS: TSN 2
+http://stariptv.org:8080/wael2021/123456/148509
+#EXTINF:-1,SPORTS: TSN 3
+http://stariptv.org:8080/wael2021/123456/148508
+#EXTINF:-1,SPORTS: TSN 4
+http://stariptv.org:8080/wael2021/123456/148507
+#EXTINF:-1,SPORTS: TSN 5
+http://stariptv.org:8080/wael2021/123456/148505
+#EXTINF:-1,NEWS: CNN
+http://stariptv.org:8080/wael2021/123456/148477
+#EXTINF:-1,NEWS: ABC
+http://stariptv.org:8080/wael2021/123456/148478
+#EXTINF:-1,NEWS: Fox News
+http://stariptv.org:8080/wael2021/123456/148455
+#EXTINF:-1,NEWS: MSNBC
+http://stariptv.org:8080/wael2021/123456/148456
+#EXTINF:-1,NEWS: CNBC
+http://stariptv.org:8080/wael2021/123456/148457
+#EXTINF:-1,NEWS: CBS
+http://stariptv.org:8080/wael2021/123456/148460
+#EXTINF:-1,NEWS: FOX
+http://stariptv.org:8080/wael2021/123456/148461
+#EXTINF:-1,NEWS: NBC
+http://stariptv.org:8080/wael2021/123456/148462
