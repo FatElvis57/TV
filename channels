@@ -1,73 +1,55 @@
 #EXTM3U
-#EXTINF:-1,US: SYFY
-http://stariptv.org:8080/wael2021/123456/148451
-#EXTINF:-1,US: TNT
-http://stariptv.org:8080/wael2021/123456/148474
-#EXTINF:-1,US: TBS
-http://stariptv.org:8080/wael2021/123456/148479
-#EXTINF:-1,US: TLC
-http://stariptv.org:8080/wael2021/123456/148488
-#EXTINF:-1,Movies: AMC
-http://stariptv.org:8080/wael2021/123456/148495
-#EXTINF:-1,Movies: Cinemax
-http://stariptv.org:8080/wael2021/123456/148473
-#EXTINF:-1,Movies: FX HD
-http://stariptv.org:8080/wael2021/123456/148463
-#EXTINF:-1,Movies: FXX HD
-http://stariptv.org:8080/wael2021/123456/148464
-#EXTINF:-1,Movies: HBO
-http://stariptv.org:8080/wael2021/123456/148468
-#EXTINF:-1,Movies: HBO Comedy
-http://stariptv.org:8080/wael2021/123456/148471
-#EXTINF:-1,Movies: HBO Family
-http://stariptv.org:8080/wael2021/123456/148512
-#EXTINF:-1,Movies: HBO Signature
-http://stariptv.org:8080/wael2021/123456/148470
-#EXTINF:-1,Movies: HBO Zone
-http://stariptv.org:8080/wael2021/123456/148469
-#EXTINF:-1,Movies: Hallmark Channel
-http://stariptv.org:8080/wael2021/123456/148520
-#EXTINF:-1,Movies: Lifetime Movie Network
-http://stariptv.org:8080/wael2021/123456/148519
-#EXTINF:-1,Movies: Showtime
-http://stariptv.org:8080/wael2021/123456/148472
-#EXTINF:-1,Movies: Starz Black
-http://stariptv.org:8080/wael2021/123456/148513
-#EXTINF:-1,Movies: Starz Cinema
-http://stariptv.org:8080/wael2021/123456/148514
-#EXTINF:-1,Movies: Starz Cinema East
-http://stariptv.org:8080/wael2021/123456/148515
-#EXTINF:-1,Movies: Starz Edge
-http://stariptv.org:8080/wael2021/123456/148516
+#EXTINF:-1,US SYFY (EAST)
+http://asd2.me:80/solange10/10solange/10045407
+#EXTINF:-1,US AMC USA
+http://asd2.me:80/solange10/10solange/10035198
+#EXTINF:-1,US HALLMARK CHANNEL
+http://asd2.me:80/solange10/10solange/10045473
+#EXTINF:-1,US LIFETIME MOVIE NETWORK
+http://asd2.me:80/solange10/10solange/10045461
+#EXTINF:-1,US SHOWTIME
+http://asd2.me:80/solange10/10solange/10047732
+#EXTINF:-1,US SHOWTIME 2
+http://asd2.me:80/solange10/10solange/10047731
+#EXTINF:-1,US SHOWTIME EXTREME
+http://asd2.me:80/solange10/10solange/10047729
+#EXTINF:-1,US SHOWTIME FAMILY ZONE
+http://asd2.me:80/solange10/10solange/10047728
+#EXTINF:-1,US STARZ
+http://asd2.me:80/solange10/10solange/10047727
+#EXTINF:-1,US STARZ CINEMA
+http://asd2.me:80/solange10/10solange/10047726
+#EXTINF:-1,US STARZ COMEDY
+http://asd2.me:80/solange10/10solange/10047725
+#EXTINF:-1,US STARZ KIDS & FAMILY
+http://asd2.me:80/solange10/10solange/10047724
 #EXTINF:-1,US: UFC Fight pass
 http://stariptv.org:8080/wael2021/123456/148517
-#EXTINF:-1,SPORTS: ESPN1
-http://stariptv.org:8080/wael2021/123456/148465
-#EXTINF:-1,SPORTS: ESPN2
-http://stariptv.org:8080/wael2021/123456/148466
-#EXTINF:-1,SPORTS: TSN 1
-http://stariptv.org:8080/wael2021/123456/148510
-#EXTINF:-1,SPORTS: TSN 2
-http://stariptv.org:8080/wael2021/123456/148509
-#EXTINF:-1,SPORTS: TSN 3
-http://stariptv.org:8080/wael2021/123456/148508
-#EXTINF:-1,SPORTS: TSN 4
-http://stariptv.org:8080/wael2021/123456/148507
-#EXTINF:-1,SPORTS: TSN 5
-http://stariptv.org:8080/wael2021/123456/148505
-#EXTINF:-1,NEWS: CNN
-http://stariptv.org:8080/wael2021/123456/148477
-#EXTINF:-1,NEWS: ABC
-http://stariptv.org:8080/wael2021/123456/148478
-#EXTINF:-1,NEWS: Fox News
-http://stariptv.org:8080/wael2021/123456/148455
-#EXTINF:-1,NEWS: MSNBC
-http://stariptv.org:8080/wael2021/123456/148456
-#EXTINF:-1,NEWS: CNBC
-http://stariptv.org:8080/wael2021/123456/148457
-#EXTINF:-1,NEWS: CBS
-http://stariptv.org:8080/wael2021/123456/148460
-#EXTINF:-1,NEWS: FOX
-http://stariptv.org:8080/wael2021/123456/148461
-#EXTINF:-1,NEWS: NBC
-http://stariptv.org:8080/wael2021/123456/148462
+#EXTINF:-1,US ESPN
+http://asd2.me:80/solange10/10solange/10047793
+#EXTINF:-1,US ESPN 1 (A)
+http://asd2.me:80/solange10/10solange/10072251
+#EXTINF:-1,US ESPN 1 (D)
+http://asd2.me:80/solange10/10solange/10072249
+#EXTINF:-1,US ESPN 1 (H)
+http://asd2.me:80/solange10/10solange/10072250
+#EXTINF:-1,US ESPN 1 (HD) (S)
+http://asd2.me:80/solange10/10solange/10072254
+#EXTINF:-1,US ESPN 1 (SD) (S)
+http://asd2.me:80/solange10/10solange/10072253
+#EXTINF:-1,US ESPN 1 (Y)
+http://asd2.me:80/solange10/10solange/10072252
+#EXTINF:-1,US ESPN 2 HD
+http://asd2.me:80/solange10/10solange/5630
+#EXTINF:-1,US ESPN HD
+http://asd2.me:80/solange10/10solange/1841
+#EXTINF:-1,US ESPN2
+http://asd2.me:80/solange10/10solange/10047792
+#EXTINF:-1,US CBS WCBS NEW YORK
+http://asd2.me:80/solange10/10solange/10071050
+#EXTINF:-1,US CNBC
+http://asd2.me:80/solange10/10solange/10035215
+#EXTINF:-1,US CNN
+http://asd2.me:80/solange10/10solange/1761
+#EXTINF:-1,US FOX NEWS
+http://asd2.me:80/solange10/10solange/10035202
