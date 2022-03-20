@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,UK: Sky Sports F1 FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94393
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94394
+#EXTINF:-1,US ESPN HD
+http://asd2.me:80/solange10/10solange/1841
+#EXTINF:-1,US ESPN2
+http://asd2.me:80/solange10/10solange/10047792
+#EXTINF:-1,CA TSN 1
+http://asd2.me:80/solange10/10solange/10072377
+#EXTINF:-1,CA TSN 2
+http://asd2.me:80/solange10/10solange/10072378
+#EXTINF:-1,CA TSN 3
+http://asd2.me:80/solange10/10solange/10072379
+#EXTINF:-1,CA TSN 4
+http://asd2.me:80/solange10/10solange/10072380
+#EXTINF:-1,CA TSN 5
+http://asd2.me:80/solange10/10solange/10072381
 #EXTINF:-1,US SYFY (EAST)
 http://asd2.me:80/solange10/10solange/10045407
 #EXTINF:-1,US AMC USA
@@ -41,10 +59,6 @@ http://asd2.me:80/solange10/10solange/10072253
 http://asd2.me:80/solange10/10solange/10072252
 #EXTINF:-1,US ESPN 2 HD
 http://asd2.me:80/solange10/10solange/5630
-#EXTINF:-1,US ESPN HD
-http://asd2.me:80/solange10/10solange/1841
-#EXTINF:-1,US ESPN2
-http://asd2.me:80/solange10/10solange/10047792
 #EXTINF:-1,US CBS WCBS NEW YORK
 http://asd2.me:80/solange10/10solange/10071050
 #EXTINF:-1,US CNBC
