@@ -1,69 +1,9 @@
 #EXTM3U
-#EXTINF:-1,UK: Sky Sports F1 FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94393
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94394
-#EXTINF:-1,US ESPN HD
-http://asd2.me:80/solange10/10solange/1841
-#EXTINF:-1,US ESPN2
-http://asd2.me:80/solange10/10solange/10047792
-#EXTINF:-1,CA TSN 1
-http://asd2.me:80/solange10/10solange/10072377
-#EXTINF:-1,CA TSN 2
-http://asd2.me:80/solange10/10solange/10072378
-#EXTINF:-1,CA TSN 3
-http://asd2.me:80/solange10/10solange/10072379
-#EXTINF:-1,CA TSN 4
-http://asd2.me:80/solange10/10solange/10072380
-#EXTINF:-1,CA TSN 5
-http://asd2.me:80/solange10/10solange/10072381
-#EXTINF:-1,US SYFY (EAST)
-http://asd2.me:80/solange10/10solange/10045407
-#EXTINF:-1,US AMC USA
-http://asd2.me:80/solange10/10solange/10035198
-#EXTINF:-1,US HALLMARK CHANNEL
-http://asd2.me:80/solange10/10solange/10045473
-#EXTINF:-1,US LIFETIME MOVIE NETWORK
-http://asd2.me:80/solange10/10solange/10045461
-#EXTINF:-1,US SHOWTIME
-http://asd2.me:80/solange10/10solange/10047732
-#EXTINF:-1,US SHOWTIME 2
-http://asd2.me:80/solange10/10solange/10047731
-#EXTINF:-1,US SHOWTIME EXTREME
-http://asd2.me:80/solange10/10solange/10047729
-#EXTINF:-1,US SHOWTIME FAMILY ZONE
-http://asd2.me:80/solange10/10solange/10047728
-#EXTINF:-1,US STARZ
-http://asd2.me:80/solange10/10solange/10047727
-#EXTINF:-1,US STARZ CINEMA
-http://asd2.me:80/solange10/10solange/10047726
-#EXTINF:-1,US STARZ COMEDY
-http://asd2.me:80/solange10/10solange/10047725
-#EXTINF:-1,US STARZ KIDS & FAMILY
-http://asd2.me:80/solange10/10solange/10047724
-#EXTINF:-1,US: UFC Fight pass
-http://stariptv.org:8080/wael2021/123456/148517
-#EXTINF:-1,US ESPN
-http://asd2.me:80/solange10/10solange/10047793
-#EXTINF:-1,US ESPN 1 (A)
-http://asd2.me:80/solange10/10solange/10072251
-#EXTINF:-1,US ESPN 1 (D)
-http://asd2.me:80/solange10/10solange/10072249
-#EXTINF:-1,US ESPN 1 (H)
-http://asd2.me:80/solange10/10solange/10072250
-#EXTINF:-1,US ESPN 1 (HD) (S)
-http://asd2.me:80/solange10/10solange/10072254
-#EXTINF:-1,US ESPN 1 (SD) (S)
-http://asd2.me:80/solange10/10solange/10072253
-#EXTINF:-1,US ESPN 1 (Y)
-http://asd2.me:80/solange10/10solange/10072252
-#EXTINF:-1,US ESPN 2 HD
-http://asd2.me:80/solange10/10solange/5630
-#EXTINF:-1,US CBS WCBS NEW YORK
-http://asd2.me:80/solange10/10solange/10071050
-#EXTINF:-1,US CNBC
-http://asd2.me:80/solange10/10solange/10035215
-#EXTINF:-1,US CNN
-http://asd2.me:80/solange10/10solange/1761
-#EXTINF:-1,US FOX NEWS
-http://asd2.me:80/solange10/10solange/10035202
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (360p)
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (720p)
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (360p)
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (720p)
+http://stream2.grandma.fit/espn2.m3u8
