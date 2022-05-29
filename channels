@@ -1,9 +1,339 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (360p)
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (720p)
-https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (360p)
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (720p)
-http://stream2.grandma.fit/espn2.m3u8
+#EXTINF:-1,CA | A&E HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1887
+#EXTINF:-1,CA | ABC East HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1886
+#EXTINF:-1,CA | ABC SPARK HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1884
+#EXTINF:-1,CA | ADDIK (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1882
+#EXTINF:-1,CA | AMC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1880
+#EXTINF:-1,CA | ANIMAL PLANET HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1879
+#EXTINF:-1,CA | BNN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1872
+#EXTINF:-1,CA | BRAVO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1870
+#EXTINF:-1,CA | CRIME & INVESTIGATION HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1869
+#EXTINF:-1,CA | CANAL SAVOIR (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1868
+#EXTINF:-1,CA |  CANAL D (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1827
+#EXTINF:-1,CA | Canada One
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1867
+#EXTINF:-1,CA | CBC CALGARY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1866
+#EXTINF:-1,CA | CBC MONTREAL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1864
+#EXTINF:-1,CA | CTV NEWS CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1830
+#EXTINF:-1,CA | FOOD NETWORK HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1810
+#EXTINF:-1,CA | ZESTE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1688
+#EXTINF:-1,CA | Z TELE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1689
+#EXTINF:-1,CA | YOOPA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1691
+#EXTINF:-1,CA | YES HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1692
+#EXTINF:-1,CA | WILD TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1694
+#EXTINF:-1,CA | WGN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1695
+#EXTINF:-1,CA | WEATHER NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1697
+#EXTINF:-1,CA | W NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1698
+#EXTINF:-1,CA | VRAK (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1699
+#EXTINF:-1,CA | VISION
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1700
+#EXTINF:-1,CA | VIE (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1701
+#EXTINF:-1,CA | UNIS TV HD (FR) 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1702
+#EXTINF:-1,CA | TVO 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1703
+#EXTINF:-1,CA | TVA SPORTS (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1704
+#EXTINF:-1,CA | TV5 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1705
+#EXTINF:-1,CA | TSN 5 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1706
+#EXTINF:-1,CA | TSN 4 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1707
+#EXTINF:-1,CA | TSN 3 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1708
+#EXTINF:-1,CA | TSN 2 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1709
+#EXTINF:-1,CA | TSN 1 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1710
+#EXTINF:-1,CA | TREEHOUSE HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1711
+#EXTINF:-1,CA | TELE TOON FRENCH
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1713
+#EXTINF:-1,CA | TELE TOON 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1714
+#EXTINF:-1,CA | TMN4E (CRAVE TV 4) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1715
+#EXTINF:-1,CA | TMN3E (CRAVE TV 3) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1716
+#EXTINF:-1,CA | TMN2E (CRAVE TV 2) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1717
+#EXTINF:-1,CA | CRAVE  1 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1718
+#EXTINF:-1,CA | TLC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1719
+#EXTINF:-1,CA | TFO (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1720
+#EXTINF:-1,CA | TELE QUEBEC (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1721
+#EXTINF:-1,CA | TCM HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1723
+#EXTINF:-1,CA | SPORTSNET WORLD HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1724
+#EXTINF:-1,CA | SPORTSNET WEST HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1726
+#EXTINF:-1,CA | SPORTSNET PACIFIC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1727
+#EXTINF:-1,CA | SPORTSNET ONTARIO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1728
+#EXTINF:-1,CA | SPORTSNET ONE HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1729
+#EXTINF:-1,CA | SPORTSNET 360 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1730
+#EXTINF:-1,CA | SILVER SCREEN CLASSICS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1731
+#EXTINF:-1,CA | SLICE HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1732
+#EXTINF:-1,CA | THE SHOPPING NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1733
+#EXTINF:-1,CA | SUPER ECRAN 4 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1735
+#EXTINF:-1,CA | SUPER ECRAN 3 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1736
+#EXTINF:-1,CA | SUPER ECRAN 2 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1737
+#EXTINF:-1,CA | SUPER ECRAN 1 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1738
+#EXTINF:-1,CA | DISCOVERY SCIENCE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1740
+#EXTINF:-1,CA | S SERIES +
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1744
+#EXTINF:-1,CA | RDS INFO (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1745
+#EXTINF:-1,CA | RDS2 (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1746
+#EXTINF:-1,CA | RDS (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1747
+#EXTINF:-1,CA | ICI RDI (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1748
+#EXTINF:-1,CA | PARAMOUNT
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1749
+#EXTINF:-1,CA | Prise (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1750
+#EXTINF:-1,CA | PEACHTREE TV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1751
+#EXTINF:-1,CA | PBS HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1752
+#EXTINF:-1,CA | OWN HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1753
+#EXTINF:-1,CA | ONE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1755
+#EXTINF:-1,CA | OMNI 2 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1756
+#EXTINF:-1,CA | OMNI 1 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1757
+#EXTINF:-1,CA | OLN HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1758
+#EXTINF:-1,CA | NTV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1759
+#EXTINF:-1,CA | NICKTOON HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1760
+#EXTINF:-1,CA | NFL Network
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1761
+#EXTINF:-1,CA | NBC WEST HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1762
+#EXTINF:-1,CA | NBC EAST HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1763
+#EXTINF:-1,CA | NBA TV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1764
+#EXTINF:-1,CA | MUCH MUSIC
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1765
+#EXTINF:-1,CA | MTV2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1766
+#EXTINF:-1,CA | MTV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1767
+#EXTINF:-1,CA | MOVIETIME
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1768
+#EXTINF:-1,CA | MOI ET CIE (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1771
+#EXTINF:-1,CA | MLB NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1772
+#EXTINF:-1,CA | METEO (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1774
+#EXTINF:-1,CA | MAX (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1775
+#EXTINF:-1,CA | TELEMAGINO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1778
+#EXTINF:-1,CA | LIFETIME HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1779
+#EXTINF:-1,CA | KTLA 5
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1781
+#EXTINF:-1,CA | KNOWLEDGE KIDS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1782
+#EXTINF:-1,CA | IFC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1783
+#EXTINF:-1,CA | ID (INVESTIGATION DISCOVERY) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1784
+#EXTINF:-1,CA | ICI VANCOUVER
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1785
+#EXTINF:-1,CA | ICI MONTREAL (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1786
+#EXTINF:-1,CA | HLN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1788
+#EXTINF:-1,CA | HISTORIO (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1789
+#EXTINF:-1,CA | HISTORY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1790
+#EXTINF:-1,CA | HGTV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1791
+#EXTINF:-1,CA | HBO 2 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1792
+#EXTINF:-1,CA | HBO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1793
+#EXTINF:-1,CA | H2 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1794
+#EXTINF:-1,CA | GUSTO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1795
+#EXTINF:-1,CA | GSN (GAME SHOW NETWORK) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1796
+#EXTINF:-1,CA | GOLF HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1797
+#EXTINF:-1,CA | GLOBAL VANCOUVER
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1798
+#EXTINF:-1,CA | GLOBAL TORONTO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1799
+#EXTINF:-1,CA | GLOBAL HALIFAX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1800
+#EXTINF:-1,CA | GLOBAL CALGARY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1801
+#EXTINF:-1,CA | NATIONAL GEOGRAPHIC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1802
+#EXTINF:-1,CA | GAME TV HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1803
+#EXTINF:-1,CA | FYI HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1804
+#EXTINF:-1,CA | MOTOR TREND HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1805
+#EXTINF:-1,CA | FOX NEWS CHANNEL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1807
+#EXTINF:-1,CA | FOX WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1808
+#EXTINF:-1,CA | FOX EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1809
+#EXTINF:-1,CA | FAMILY CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1811
+#EXTINF:-1,CA | EVASION (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1814
+#EXTINF:-1,CA | E! HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1817
+#EXTINF:-1,CA | DTOUR
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1818
+#EXTINF:-1,CA | DISNEY FRENCH
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1819
+#EXTINF:-1,CA | DISNEY CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1820
+#EXTINF:-1,CA | DOCUMENTARY CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1821
+#EXTINF:-1,CA | DISNEY JR HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1822
+#EXTINF:-1,CA | DIY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1823
+#EXTINF:-1,CA | DISCOVERY CANADA HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1824
+#EXTINF:-1,CA | DEJAVIEW
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1825
+#EXTINF:-1,CA | DAYSTAR
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1826
+#EXTINF:-1,CA | CW11
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1828
+#EXTINF:-1,CA | CTV 2 OTTAWA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1832
+#EXTINF:-1,CA | CTV TORONTO
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1834
+#EXTINF:-1,CA | CTV OTTAWA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1835
+#EXTINF:-1,CA | CTV MONTREAL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1836
+#EXTINF:-1,CA | CTV Calgary
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1838
+#EXTINF:-1,CA | CPAC (FR)
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1839
+#EXTINF:-1,CA | CPAC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1840
+#EXTINF:-1,CA | CP24
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1841
+#EXTINF:-1,CA | COTTAGE LIFE TV
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1842
+#EXTINF:-1,CA | COOKING CHANNEL
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1844
+#EXTINF:-1,CA | CINEPOP 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1845
+#EXTINF:-1,CA | CNN INTERNATIONAL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1846
+#EXTINF:-1,CA | CNN
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1847
+#EXTINF:-1,CA | CNBC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1848
+#EXTINF:-1,CA | CARTOON NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1849
+#EXTINF:-1,CA | CMT
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1850
+#EXTINF:-1,CA | COMEDY NETWORK
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1852
+#EXTINF:-1,CA | CTV COMEDY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1853
+#EXTINF:-1,CA | TRAVEL ESCAPE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1854
+#EXTINF:-1,CA | CITY TV CALGARY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1855
+#EXTINF:-1,CA | CHCH HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1857
+#EXTINF:-1,CA | CBS WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1858
+#EXTINF:-1,CA | CBS EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1859
+#EXTINF:-1,CA | CBC NEWS HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1860
+#EXTINF:-1,CA | CBC VANCOUVER
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1861
+#EXTINF:-1,CA | CBC TORONTO HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1862
+#EXTINF:-1,CA | CBC OTTAWA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1863
+#EXTINF:-1,CA | CBC HALIFAX HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1865
+#EXTINF:-1,CA | SYFY HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1873
+#EXTINF:-1,CA | BBC WORLD NEWS 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1874
+#EXTINF:-1,CA | SMITHSONIAN CHANNEL HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1876
+#EXTINF:-1,CA | APTN HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1877
+#EXTINF:-1,CA | CP24 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1878
+#EXTINF:-1,CA | AHC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1881
+#EXTINF:-1,CA | ADULT SWIM HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1883
+#EXTINF:-1,CA | ABC West HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1885
+#EXTINF:-1,CA | CTV Drama
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3982
+#EXTINF:-1,CA | CTV Halifax
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3983
