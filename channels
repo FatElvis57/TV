@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,SPORTS | ESPN HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3005?checkedby:iptvcat.com
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3005
 #EXTINF:-1,SPORTS | TSN 1 HD
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1710
 #EXTINF:-1,SPORTS | TSN 2 HD
@@ -12,12 +12,14 @@ http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1707
 #EXTINF:-1,SPORTS | TSN 5 HD
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1706
 #EXTINF:-1,SPORTS | MMA Junkie
-http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:iptvcat.com
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1,SPORTS | MMA Network
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 #EXTINF:-1,MOVIE | BRAVO HD
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1870
 #EXTINF:-1,MOVIE | PARAMOUNT
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1749
-#EXTINF:-1,MOVIE PARAMOUNT 2
+#EXTINF:-1,MOVIE | PARAMOUNT 2
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2902
 #EXTINF:-1,MOVIE | MOVIETIME
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1768
@@ -35,18 +37,10 @@ http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2945
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946
 #EXTINF:-1,MOVIE | HBO ZONE
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2948
-#EXTINF:-1,MOVIE | CRAVE TV 1 
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1718
-#EXTINF:-1,MOVIE | CRAVE TV 2 
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1717
-#EXTINF:-1,MOVIE | CRAVE TV 3 
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1716
-#EXTINF:-1,MOVIE | CRAVE TV 4
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1715
-#EXTINF:-1,MOVIE | CINEMAX EAST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2940
-#EXTINF:-1,MOVIE | CINEMAX WEST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2941
+#EXTINF:-1,MOVIE | MOREMAX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2949
+#EXTINF:-1,MOVIE | MOVIE PLEX
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2981
 #EXTINF:-1,MOVIE | STARZ CINEMA
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2959
 #EXTINF:-1,MOVIE | STARZ COMEDY
@@ -79,12 +73,18 @@ http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2955
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2956
 #EXTINF:-1,MOVIE | SHOWTIME WEST
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2957
-#EXTINF:-1,MOVIE | MMN
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,MOVIE | MOREMAX
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2949
-#EXTINF:-1,MOVIE | MOVIE PLEX
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2981
+#EXTINF:-1,MOVIE | CRAVE TV 1 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1718
+#EXTINF:-1,MOVIE | CRAVE TV 2 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1717
+#EXTINF:-1,MOVIE | CRAVE TV 3 
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1716
+#EXTINF:-1,MOVIE | CRAVE TV 4
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1715
+#EXTINF:-1,MOVIE | CINEMAX EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2940
+#EXTINF:-1,MOVIE | CINEMAX WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2941
 #EXTINF:-1,TV | TLC HD
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1719
 #EXTINF:-1,TV | SILVER SCREEN CLASSICS
@@ -94,6 +94,6 @@ http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2927
 #EXTINF:-1,TV | LAND WEST
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2928
 #EXTINF:-1,TV | Chive TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8?checkedby:iptvcat.com
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1,TV | Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
