@@ -1,163 +1,104 @@
 #EXTM3U
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,SPORTS | ESPN HD
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3005?checkedby:iptvcat.com
-#EXTINF:-1,MMA Junkie
-http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,CA | TSN 5 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1706
-#EXTINF:-1,CA | TSN 4 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1707
-#EXTINF:-1,CA | TSN 3 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1708
-#EXTINF:-1,CA | TSN 2 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1709
-#EXTINF:-1,CA | TSN 1 HD
+#EXTINF:-1,SPORTS | TSN 1 HD
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1710
-#EXTINF:-1,CA | BRAVO HD
+#EXTINF:-1,SPORTS | TSN 2 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1709
+#EXTINF:-1,SPORTS | TSN 3 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1708
+#EXTINF:-1,SPORTS | TSN 4 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1707
+#EXTINF:-1,SPORTS | TSN 5 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1706
+#EXTINF:-1,SPORTS | MMA Junkie
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,MOVIE | BRAVO HD
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1870
-#EXTINF:-1,CA | TMN4E (CRAVE TV 4) HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1715
-#EXTINF:-1,CA | TMN3E (CRAVE TV 3) HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1716
-#EXTINF:-1,CA | TMN2E (CRAVE TV 2) HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1717
-#EXTINF:-1,CA | CRAVE  1 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1718
-#EXTINF:-1,CA | TLC HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1719
-#EXTINF:-1,CA | SILVER SCREEN CLASSICS
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1731
-#EXTINF:-1,CA | PARAMOUNT
+#EXTINF:-1,MOVIE | PARAMOUNT
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1749
-#EXTINF:-1,CA | MOVIETIME
+#EXTINF:-1,MOVIE PARAMOUNT 2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2902
+#EXTINF:-1,MOVIE | MOVIETIME
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1768
-#EXTINF:-1,CA | HBO 2 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1792
-#EXTINF:-1,CA | HBO HD
+#EXTINF:-1,MOVIE | HBO HD
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1793
-#EXTINF:-1,AMC HD
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67739?checkedby:iptvcat.com
-#EXTINF:-1,AMC Thrillers
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136980?checkedby:iptvcat.com
-#EXTINF:-1,CINEMAX EAST
+#EXTINF:-1,MOVIE | HBO 2 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2947
+#EXTINF:-1,MOVIE | HBO 2 HD B
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1792
+#EXTINF:-1,MOVIE | HBO COMEDY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2943
+#EXTINF:-1,MOVIE | HBO FAMILY
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2945
+#EXTINF:-1,MOVIE | HBO SIGNATURE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946
+#EXTINF:-1,MOVIE | HBO ZONE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2948
+#EXTINF:-1,MOVIE | TMN4E (CRAVE TV 4) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1715
+#EXTINF:-1,MOVIE | TMN3E (CRAVE TV 3) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1716
+#EXTINF:-1,MOVIE | TMN2E (CRAVE TV 2) HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1717
+#EXTINF:-1,MOVIE | CRAVE  1 HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1718
+
+#EXTINF:-1,MOVIE | CINEMAX EAST
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2940?checkedby:iptvcat.com
-#EXTINF:-1,CINEMAX WEST
+#EXTINF:-1,MOVIE | CINEMAX WEST
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2941?checkedby:iptvcat.com
-#EXTINF:-1,US | Chive TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Chive TV
-http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Disney XD HD
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67788?checkedby:iptvcat.com
-#EXTINF:-1,Disney XD HD
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136641?checkedby:iptvcat.com
-#EXTINF:-1,FX HD
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67700?checkedby:iptvcat.com
-#EXTINF:-1,FX HD
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67827?checkedby:iptvcat.com
-#EXTINF:-1,FXM
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136941?checkedby:iptvcat.com
-#EXTINF:-1,Starz Cinema
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136928?checkedby:iptvcat.com
-#EXTINF:-1,Starz Encore Action
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136931?checkedby:iptvcat.com
-#EXTINF:-1,TV LAND EAST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2927?checkedby:iptvcat.com
-#EXTINF:-1,TV LAND WEST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2928?checkedby:iptvcat.com
-#EXTINF:-1,STARZ CINEMA
+#EXTINF:-1,MOVIE | STARZ CINEMA
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2959?checkedby:iptvcat.com
-#EXTINF:-1,STARZ COMEDY
+#EXTINF:-1,MOVIE | STARZ COMEDY
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2960?checkedby:iptvcat.com
-#EXTINF:-1,STARZ EAST
+#EXTINF:-1,MOVIE | STARZ EAST
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2961?checkedby:iptvcat.com
-#EXTINF:-1,STARZ EDGE
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67663?checkedby:iptvcat.com
-#EXTINF:-1,STARZ ENCORE
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67668?checkedby:iptvcat.com
-#EXTINF:-1,STARZ ENCORE
+#EXTINF:-1,MOVIE | STARZ ENCORE
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2966?checkedby:iptvcat.com
-#EXTINF:-1,STARZ ENCORE CLASSIC
+#EXTINF:-1,MOVIE | STARZ ENCORE CLASSIC
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2968?checkedby:iptvcat.com
-#EXTINF:-1,STARZ ENCORE FAMILY
+#EXTINF:-1,MOVIE | STARZ ENCORE FAMILY
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2969?checkedby:iptvcat.com
-#EXTINF:-1,STARZ ENCORE SUSPENSE
+#EXTINF:-1,MOVIE | STARZ ENCORE SUSPENSE
 http://elattar-tv.org:8080/LUCKYG/22376727484869/67667?checkedby:iptvcat.com
-#EXTINF:-1,STARZ ENCORE SUSPENSE
+#EXTINF:-1,MOVIE | STARZ ENCORE SUSPENSE
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2970?checkedby:iptvcat.com
-#EXTINF:-1,STARZ ENCORE WESTERNS
+#EXTINF:-1,MOVIE | STARZ ENCORE WESTERNS
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2971?checkedby:iptvcat.com
-#EXTINF:-1,STARZENCORE ACTION
+#EXTINF:-1,MOVIE | STARZENCORE ACTION
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2967?checkedby:iptvcat.com
-#EXTINF:-1,SUNDANCE
+#EXTINF:-1,MOVIE | SUNDANCE
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2912?checkedby:iptvcat.com
-#EXTINF:-1,SYFY HD
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67908?checkedby:iptvcat.com
-#EXTINF:-1,SYFY WEST
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67670?checkedby:iptvcat.com
-#EXTINF:-1,Showtime
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136832?checkedby:iptvcat.com
-#EXTINF:-1,Showtime 2
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136837?checkedby:iptvcat.com
-#EXTINF:-1,Showtime Family Zone
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136850?checkedby:iptvcat.com
-#EXTINF:-1,Showtime Women
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136844?checkedby:iptvcat.com
-#EXTINF:-1,REELZ
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136848?checkedby:iptvcat.com
-#EXTINF:-1,REELZ
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2906?checkedby:iptvcat.com
-#EXTINF:-1,SHOWTIME EAST
+#EXTINF:-1,MOVIE | SHOWTIME EAST
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2952?checkedby:iptvcat.com
-#EXTINF:-1,SHOWTIME EXTREME
+#EXTINF:-1,MOVIE | SHOWTIME EXTREME
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2953?checkedby:iptvcat.com
-#EXTINF:-1,SHOWTIME FAMILY ZONE
+#EXTINF:-1,MOVIE | SHOWTIME FAMILY ZONE
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2954?checkedby:iptvcat.com
-#EXTINF:-1,SHOWTIME NEXT
+#EXTINF:-1,MOVIE | SHOWTIME NEXT
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2955?checkedby:iptvcat.com
-#EXTINF:-1,SHOWTIME SHOWCASE
+#EXTINF:-1,MOVIE | SHOWTIME SHOWCASE
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2956?checkedby:iptvcat.com
-#EXTINF:-1,SHOWTIME WEST
+#EXTINF:-1,MOVIE | SHOWTIME WEST
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2957?checkedby:iptvcat.com
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2902?checkedby:iptvcat.com
-#EXTINF:-1,Lifetime Movie Network HD
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67846?checkedby:iptvcat.com
-#EXTINF:-1,MMN
+#EXTINF:-1,MOVIE | MMN
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,MOREMAX
+#EXTINF:-1,MOVIE | MOREMAX
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2949?checkedby:iptvcat.com
-#EXTINF:-1,MOVIE PLEX
+#EXTINF:-1,MOVIE | MOVIE PLEX
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2981?checkedby:iptvcat.com
-#EXTINF:-1,HBO COMEDY
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2943?checkedby:iptvcat.com
-#EXTINF:-1,HBO FAMILY
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2945?checkedby:iptvcat.com
-#EXTINF:-1,HBO Family
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137024?checkedby:iptvcat.com
-#EXTINF:-1,HBO Family East
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136671?checkedby:iptvcat.com
-#EXTINF:-1,HBO HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2947?checkedby:iptvcat.com
-#EXTINF:-1,HBO SIGNATURE
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946?checkedby:iptvcat.com
-#EXTINF:-1,HBO Signature
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137025?checkedby:iptvcat.com
-#EXTINF:-1,HBO WEST
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67652?checkedby:iptvcat.com
-#EXTINF:-1,HBO West
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137026?checkedby:iptvcat.com
-#EXTINF:-1,HBO ZONE
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2948?checkedby:iptvcat.com
-#EXTINF:-1,HBO2
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/137023?checkedby:iptvcat.com
-#EXTINF:-1,HD
-http://elattar-tv.org:8080/LUCKYG/22376727484869/67960?checkedby:iptvcat.com
-#EXTINF:-1,HDNET
+#EXTINF:-1,MOVIE | HDNET
 http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2979?checkedby:iptvcat.com
-#EXTINF:-1,Hallmark Drama
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136857?checkedby:iptvcat.com
-#EXTINF:-1,Hallmark Drama HD
-http://revteam2.offshorerev.cc:80/_D7YhIz/51mIWAfYjq/136668?checkedby:iptvcat.com
-#EXTINF:-1,Fail Army
+#EXTINF:-1,TV | TLC HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1719
+#EXTINF:-1,TV | SILVER SCREEN CLASSICS
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1731
+#EXTINF:-1,TV | LAND EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2927?checkedby:iptvcat.com
+#EXTINF:-1,TV | LAND WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2928?checkedby:iptvcat.com
+#EXTINF:-1,TV | Chive TV
+https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,TV | Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8?
