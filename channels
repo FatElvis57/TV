@@ -1,99 +1,350 @@
 #EXTM3U
-#EXTINF:-1,SPORTS | ESPN HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3005
-#EXTINF:-1,SPORTS | TSN 1 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1710
-#EXTINF:-1,SPORTS | TSN 2 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1709
-#EXTINF:-1,SPORTS | TSN 3 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1708
-#EXTINF:-1,SPORTS | TSN 4 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1707
-#EXTINF:-1,SPORTS | TSN 5 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1706
-#EXTINF:-1,SPORTS | MMA Junkie
-http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1,SPORTS | MMA Network
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
-#EXTINF:-1,MOVIE | BRAVO HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1870
-#EXTINF:-1,MOVIE | PARAMOUNT
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1749
-#EXTINF:-1,MOVIE | PARAMOUNT 2
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2902
-#EXTINF:-1,MOVIE | MOVIETIME
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1768
-#EXTINF:-1,MOVIE | HBO HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1793
-#EXTINF:-1,MOVIE | HBO 2 HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2947
-#EXTINF:-1,MOVIE | HBO 2 HD B
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1792
-#EXTINF:-1,MOVIE | HBO COMEDY
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2943
-#EXTINF:-1,MOVIE | HBO FAMILY
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2945
-#EXTINF:-1,MOVIE | HBO SIGNATURE
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2946
-#EXTINF:-1,MOVIE | HBO ZONE
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2948
-#EXTINF:-1,MOVIE | MOREMAX
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2949
-#EXTINF:-1,MOVIE | MOVIE PLEX
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2981
-#EXTINF:-1,MOVIE | STARZ CINEMA
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2959
-#EXTINF:-1,MOVIE | STARZ COMEDY
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2960
-#EXTINF:-1,MOVIE | STARZ EAST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2961
-#EXTINF:-1,MOVIE | STARZ ENCORE
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2966
-#EXTINF:-1,MOVIE | STARZ ENCORE CLASSIC
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2968
-#EXTINF:-1,MOVIE | STARZ ENCORE FAMILY
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2969
-#EXTINF:-1,MOVIE | STARZ ENCORE SUSPENSE
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2970
-#EXTINF:-1,MOVIE | STARZ ENCORE WESTERNS
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2971
-#EXTINF:-1,MOVIE | STARZENCORE ACTION
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2967
-#EXTINF:-1,MOVIE | SUNDANCE
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2912
-#EXTINF:-1,MOVIE | SHOWTIME EAST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2952
-#EXTINF:-1,MOVIE | SHOWTIME EXTREME
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2953
-#EXTINF:-1,MOVIE | SHOWTIME FAMILY ZONE
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2954
-#EXTINF:-1,MOVIE | SHOWTIME NEXT
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2955
-#EXTINF:-1,MOVIE | SHOWTIME SHOWCASE
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2956
-#EXTINF:-1,MOVIE | SHOWTIME WEST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2957
-#EXTINF:-1,MOVIE | CRAVE TV 1 
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1718
-#EXTINF:-1,MOVIE | CRAVE TV 2 
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1717
-#EXTINF:-1,MOVIE | CRAVE TV 3 
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1716
-#EXTINF:-1,MOVIE | CRAVE TV 4
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1715
-#EXTINF:-1,MOVIE | CINEMAX EAST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2940
-#EXTINF:-1,MOVIE | CINEMAX WEST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2941
-#EXTINF:-1,TV | TLC HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1719
-#EXTINF:-1,TV | SILVER SCREEN CLASSICS
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/1731
-#EXTINF:-1,TV | LAND EAST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2927
-#EXTINF:-1,TV | LAND WEST
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2928
-#EXTINF:-1,TV | Chive TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
-#EXTINF:-1,TV | Fail Army
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1,•●★★--- US SPORTS---★★●•
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/844
+#EXTINF:-1,US:  ABC 
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3653
+#EXTINF:-1,US: ABC News
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3654
+#EXTINF:-1,US: TNT HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3048
+#EXTINF:-1,US: TSN 1
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3057
+#EXTINF:-1,US:  TSN 2
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3056
+#EXTINF:-1,US: TSN 3
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3055
+#EXTINF:-1,US: TSN 4
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3054
+#EXTINF:-1,US: TSN 5
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3053
+#EXTINF:-1,US: ESPN HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3049
+#EXTINF:-1,US: ESPN 2
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3050
+#EXTINF:-1,US: ESPN U HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3052
+#EXTINF:-1,US: Bein Sport USA
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/739
+#EXTINF:-1,US: beIN Sports Ñ
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/740
+#EXTINF:-1,US: ESPN
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/742
+#EXTINF:-1,US: ESPN 2
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/743
+#EXTINF:-1,US: Longhorn Network
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/744
+#EXTINF:-1,US: Hallmark Drama
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/745
+#EXTINF:-1,US: Hallmark Movies and Mysteries
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/746
+#EXTINF:-1,US: HBO COMEDY HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/747
+#EXTINF:-1,US: NAT GEO WILD HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/748
+#EXTINF:-1,US: ESPN NEWS
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/750
+#EXTINF:-1,US: ESPN U
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/752
+#EXTINF:-1,US: Eleven Sports US
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/753
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/754
+#EXTINF:-1,US: FOX SPORTS 2 HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/755
+#EXTINF:-1,US: Showtime Showcase
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/756
+#EXTINF:-1,US: ShowTime HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/757
+#EXTINF:-1,US: TBS HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/760
+#EXTINF:-1,US: Discovery Channel HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/761
+#EXTINF:-1,US: Fox Sports Arizona
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/764
+#EXTINF:-1,US: Fox Sports Detroit
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/765
+#EXTINF:-1,US: Fox Sports Florida
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/766
+#EXTINF:-1,US: Fox Tampa
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/767
+#EXTINF:-1,US: Fox Sacramento
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/769
+#EXTINF:-1,US: Fox Sport 2 4K+
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/770
+#EXTINF:-1,US: Fox News GO
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/771
+#EXTINF:-1,US: Fox Nashville
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/772
+#EXTINF:-1,US: Fox  Sport 1 4K+
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/773
+#EXTINF:-1,US: Fox Los Angeles
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/774
+#EXTINF:-1,US: Fox Sports San Diego
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/775
+#EXTINF:-1,US: Fox  Houston
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/778
+#EXTINF:-1,US: GOLTV 
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/780
+#EXTINF:-1,US: MLB NETWORK
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/781
+#EXTINF:-1,US: MSG HD
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/782
+#EXTINF:-1,US: MSNBC
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/783
+#EXTINF:-1,US: Mav TV
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/784
+#EXTINF:-1,US: NBA TV
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/785
+#EXTINF:-1,US: NBCSN
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/786
+#EXTINF:-1,US: NBC Sports Bay Area Plus
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/788
+#EXTINF:-1,US: NBC Sports Boston
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/789
+#EXTINF:-1,US: NBC Sports California Plus
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/791
+#EXTINF:-1,US: NBC Sports Chicago Plus
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/792
+#EXTINF:-1,US: NBC Sports Nowrthwest
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/793
+#EXTINF:-1,US: NBC Sports Philadelphia
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/794
+#EXTINF:-1,US: NBC Sports Washington Plus
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/795
+#EXTINF:-1,US: NBCSN
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/796
+#EXTINF:-1,US: NESN PLUS
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/798
+#EXTINF:-1,US: NFL Network
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/799
+#EXTINF:-1,US: Olympic Channel
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/800
+#EXTINF:-1,US: Outside TV
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/801
+#EXTINF:-1,US: PAC-12 Arizona
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/802
+#EXTINF:-1,US: PAC-12 Los Angeles
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/804
+#EXTINF:-1,US: PAC-12 Oregon
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/805
+#EXTINF:-1,US: PAC-12 Washington
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/806
+#EXTINF:-1,US: Pac-12 Mountain
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/807
+#EXTINF:-1,US: PAC-12 Bay Area
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/803
+#EXTINF:-1,US: wwe Network
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/954
+#EXTINF:-1,CA: SPORTSNET 1 ʜᴅ
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/816
+#EXTINF:-1,CA: SPORTSNET 360 ʜᴅ
+http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/817
+#EXTINF:-1,•●★★--- US TV---★★●•
+#EXTINF:-1,US: 5 Star max
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2291
+#EXTINF:-1,US: ActionMax
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2274
+#EXTINF:-1,US: ActionMax 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/16145
+#EXTINF:-1,US: AMC
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/751
+#EXTINF:-1,US: ANIMAL PLANET
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6329
+#EXTINF:-1,US: beIN Sports
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/284530
+#EXTINF:-1,US: beIN Sports 1
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2272
+#EXTINF:-1,US: beIN Sports 3
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151025
+#EXTINF:-1,US: beIN Sports 4
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151024
+#EXTINF:-1,US: beIN Sports 5
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151026
+#EXTINF:-1,US: beIN Sports 7
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151028
+#EXTINF:-1,US: beIN Sports 8
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151032
+#EXTINF:-1,US: BET
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2278
+#EXTINF:-1,US: Bravo
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2282
+#EXTINF:-1,US: Empire Cinema 007
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151335
+#EXTINF:-1,US: Empire Cinema Action
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151322
+#EXTINF:-1,US: Empire Cinema Animation
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151331
+#EXTINF:-1,US: Empire Cinema Comedy
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157143
+#EXTINF:-1,US: Empire Cinema Comicult
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151334
+#EXTINF:-1,US: Empire Cinema Drama
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157145
+#EXTINF:-1,US: Empire Cinema Fantasy
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151323
+#EXTINF:-1,US: Empire Cinema Family
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151336
+#EXTINF:-1,US: Empire Cinema History
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151337
+#EXTINF:-1,US: Empire Cinema Horror
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151332
+#EXTINF:-1,US: Empire Cinema Mythology
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/157144
+#EXTINF:-1,US: Empire Cinema Romance
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151328
+#EXTINF:-1,US: Empire Cinema sci-fi
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151326
+#EXTINF:-1,US: Empire Cinema Thriller
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151330
+#EXTINF:-1,US: Empire Cinema Western
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151324
+#EXTINF:-1,US: Empire DC S Legends Of Tomorrow 5
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/198656
+#EXTINF:-1,US: Entertainment Tonight
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/284051
+#EXTINF:-1,US: Epix
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/15096
+#EXTINF:-1,US: Epix 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6372
+#EXTINF:-1,US: Epix Drive In
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/35054
+#EXTINF:-1,US: Epix Hits
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6357
+#EXTINF:-1,US: ESPN
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/747
+#EXTINF:-1,US: ESPN 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/41918
+#EXTINF:-1,US: ESPN 3
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/14816
+#EXTINF:-1,US: ESPN News
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2312
+#EXTINF:-1,US: ESPNU
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2311
+#EXTINF:-1,US: FIGHT BOX
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/530
+#EXTINF:-1,US: Filmstream
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/281940
+#EXTINF:-1,US: Folk TV East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/276039
+#EXTINF:-1,US: Food Network
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2315
+#EXTINF:-1,US: FX
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/758
+#EXTINF:-1,US: FXX
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2330
+#EXTINF:-1,US: Game Show Network
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/466
+#EXTINF:-1,US: Game TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/15472
+#EXTINF:-1,US: Hallmark Channel
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/759
+#EXTINF:-1,US: Hallmark Drama
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/3387
+#EXTINF:-1,US: Hallmark Movies & Mysteries
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/3388
+#EXTINF:-1,US: HBO
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2336
+#EXTINF:-1,US: HBO 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/5844
+#EXTINF:-1,US: HBO Comedy
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2335
+#EXTINF:-1,US: HBO Family
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/760
+#EXTINF:-1,US: HBO Signature
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6305
+#EXTINF:-1,US: HBO Zone
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6328
+#EXTINF:-1,US: HDNET Movies
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/200162
+#EXTINF:-1,US: Heros & Icons TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/295677
+#EXTINF:-1,US: HGTV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2273
+#EXTINF:-1,US: History
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/761
+#EXTINF:-1,US: HLN
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6346
+#EXTINF:-1,US: HSN
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/15455
+#EXTINF:-1,US: Human Rights
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/166156
+#EXTINF:-1,US: Humor Mill
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/294674
+#EXTINF:-1,US: IFC
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2339
+#EXTINF:-1,US: LAFF TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/272260
+#EXTINF:-1,US: Lifetime Movies
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12992
+#EXTINF:-1,US: MLB Network
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2342
+#EXTINF:-1,US: MoreMax East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/752
+#EXTINF:-1,US: MovieMax
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/15110
+#EXTINF:-1,US: MoviePlex
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/75324
+#EXTINF:-1,US: Paramount Network
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/14839
+#EXTINF:-1,US: Showtime 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/78161
+#EXTINF:-1,US: Showtime East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/16137
+#EXTINF:-1,US: Showtime Extreme
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12036
+#EXTINF:-1,US: Showtime Family Zone
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/16139
+#EXTINF:-1,US: Showtime Next
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/13008
+#EXTINF:-1,US: Showtime Showcase
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6306
+#EXTINF:-1,US: Showtime West
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6380
+#EXTINF:-1,US: Showtime Women
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12995
+#EXTINF:-1,US: Sony Movies
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/5831
+#EXTINF:-1,US: Start TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/151056
+#EXTINF:-1,US: Starz Cinema East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/25811
+#EXTINF:-1,US: Starz Comedy East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12040
+#EXTINF:-1,US: Starz East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/6302
+#EXTINF:-1,US: Starz Edge West
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2357
+#EXTINF:-1,US: Starz Encore Action East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/30773
+#EXTINF:-1,US: Starz Encore Black East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/78155
+#EXTINF:-1,US: Starz Encore Classic
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/25816
+#EXTINF:-1,US: Starz Encore East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12043
+#EXTINF:-1,US: Starz Encore Family East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/13013
+#EXTINF:-1,US: Starz Encore Suspense East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/25817
+#EXTINF:-1,US: Starz Encore West
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/30778
+#EXTINF:-1,US: Starz In Black East
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/166710
+#EXTINF:-1,US: Starz Kids & Family West
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/15052
+#EXTINF:-1,US: Starz West
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/12044
+#EXTINF:-1,US: Sundance TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2358
+#EXTINF:-1,US: SYFY
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2359
+#EXTINF:-1,US: TBS
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/295674
+#EXTINF:-1,US: TLC
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2362
+#EXTINF:-1,US: TNT
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/769
+#EXTINF:-1,US: USA Network
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/3390
+#EXTINF:-1,US: VH1
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2370
