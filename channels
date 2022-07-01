@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1,NEWS:  ABC 
-http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3653
 #EXTINF:-1,NEWS: ABC News
 http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3654
-#EXTINF:-1,NEWS: ESPN News
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2312
 #EXTINF:-1,NEWS: MSNBC
 http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/783
 #EXTINF:-1,MOVIE: 5 Star max
@@ -221,6 +217,8 @@ http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/3049
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/747
 #EXTINF:-1,SPORTS: ESPN NEWS
 http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/750
+#EXTINF:-1,NEWS: ESPN News 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2312
 #EXTINF:-1,SPORTS: ESPN
 http://iptv.allkaicerteam.com:8080/Kaicer_bXY5nW/2Zx0pm/742
 #EXTINF:-1,SPORTS: ESPN 2
