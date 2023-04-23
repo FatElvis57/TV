@@ -1,15 +1,65 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Chamber Of Secrets" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg" group-title="|EN| CLASSIC MOVIES",|EN| Harry Potter And The Chamber Of Secrets
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Avatar" tvg-logo="http://84.17.46.97:25461/images/kmcqlZGaSh20zpTbuoF0Cdn07dT_small.jpg" group-title="|EN| SCI-FI",|EN| Avatar
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/79726.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Guardians Of The Galaxy" tvg-logo="http://84.17.46.97:25461/images/y31QB9kn3XSudA15tV7UWQ9XLuW_small.jpg" group-title="|EN| MARVEL",|EN| Guardians Of The Galaxy
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/80827.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Guardians Of The Galaxy Vol 2" tvg-logo="http://84.17.46.97:25461/images/y4MBh0EjBlMuOzv9axM4qJlmhzz_small.jpg" group-title="|EN| MARVEL",|EN| Guardians Of The Galaxy Vol
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/73409.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Chamber Of Secrets" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg" group-title="|EN| FANTASY",|EN| Harry Potter And The Chamber Of Secrets
 http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/78851.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Deathly Hallows Part 2" tvg-logo="http://84.17.46.97:25461/images/fTplI1NCSuEDP4ITLcTps739fcC_small.jpg" group-title="|EN| CLASSIC MOVIES",|EN| Harry Potter And The Deathly Hallows Part 2
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Deathly Hallows Part 2" tvg-logo="http://84.17.46.97:25461/images/fTplI1NCSuEDP4ITLcTps739fcC_small.jpg" group-title="|EN| FANTASYS",|EN| Harry Potter And The Deathly Hallows Part 2
 http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/79966.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Deathy Hallows Part 1" tvg-logo="https://image.tmdb.org/t/p/w1280/bk1EWfRW0U76sWZiLDL1T7J0XV9.jpg" group-title="|EN| CLASSIC MOVIES",|EN| Harry Potter And The Deathy Hallows Part 1
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Deathy Hallows Part 1" tvg-logo="https://image.tmdb.org/t/p/w1280/bk1EWfRW0U76sWZiLDL1T7J0XV9.jpg" group-title="|EN| FANTASY",|EN| Harry Potter And The Deathy Hallows Part 1
 http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/79857.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Goblet Of Fire" tvg-logo="http://84.17.46.97:25461/images/6sASqcdrEHXxUhA3nFpjrRecPD2_small.jpg" group-title="|EN| CLASSIC MOVIES",|EN| Harry Potter And The Goblet Of Fire
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Goblet Of Fire" tvg-logo="http://84.17.46.97:25461/images/6sASqcdrEHXxUhA3nFpjrRecPD2_small.jpg" group-title="|EN| FANTASY",|EN| Harry Potter And The Goblet Of Fire
 http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/79329.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Half-Blood Prince" tvg-logo="http://84.17.46.97:25461/images/bFXys2nhALwDvpkF3dP3Vvdfn8b_small.jpg" group-title="|EN| CLASSIC MOVIES",|EN| Harry Potter And The Half-Blood Prince
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Half-Blood Prince" tvg-logo="http://84.17.46.97:25461/images/bFXys2nhALwDvpkF3dP3Vvdfn8b_small.jpg" group-title="|EN| FANTASY",|EN| Harry Potter And The Half-Blood Prince
 http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/79767.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Order Of The Phoenix" tvg-logo="http://84.17.46.97:25461/images/4YnLxYLHhT4UQ8i9jxAXWy46Xuw_small.jpg" group-title="|EN| CLASSIC MOVIES",|EN| Harry Potter And The Order Of The Phoenix
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Order Of The Phoenix" tvg-logo="http://84.17.46.97:25461/images/4YnLxYLHhT4UQ8i9jxAXWy46Xuw_small.jpg" group-title="|EN| FANTASY",|EN| Harry Potter And The Order Of The Phoenix
 http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/79564.mkv
-#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Prisoner Of Azkaban" tvg-logo="http://84.17.46.97:25461/images/jUFjMoLh8T2CWzHUSjKCojI5SHu_small.jpg" group-title="|EN| CLASSIC MOVIES",|EN| Harry Potter And The Prisoner Of Azkaban
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Harry Potter And The Prisoner Of Azkaban" tvg-logo="http://84.17.46.97:25461/images/jUFjMoLh8T2CWzHUSjKCojI5SHu_small.jpg" group-title="|EN| FANTASY",|EN| Harry Potter And The Prisoner Of Azkaban
 http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/79235.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Hunger Games" tvg-logo="http://84.17.46.97:25461/images/iLJdwmzrHFjFwI5lvYAT1gcpRuA_small.jpg" group-title="|EN| CLASSIC MOVIES",|EN| The Hunger Games
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/80516.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Hunger Games: Catching Fire" tvg-logo="http://84.17.46.97:25461/images/Hn0KgefVEp0GkdTexS6gfKTMfi_small.jpg" group-title="|EN| SCI-FI",|EN| The Hunger Games: Catching Fire
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/77599.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Hunger Games Mockingjay Part 1" tvg-logo="http://84.17.46.97:25461/images/gj282Pniaa78ZJfbaixyLXnXEDI_small.jpg" group-title="|EN| SCI-FI",|EN| The Hunger Games Mockingjay Part 1
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/80929.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Hunger Games Mockingjay Part 2" tvg-logo="http://84.17.46.97:25461/images/w93GAiq860UjmgR6tU9h2T24vaV_small.jpg" group-title="|EN| SCI-FI",|EN| The Hunger Games Mockingjay Part 2
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/81204.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Jurassic Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i3plLl89DHMz7mahksDaAo7HIS.jpg" group-title="|EN| ACTION",|EN| Jurassic Park
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/220040.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| The Lost World: Jurassic Park" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahkJNt66Bx2W04BBIHplByVtSaU.jpg" group-title="|EN| ACTION",|EN| The Lost World: Jurassic Park
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/220052.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Jurassic Park III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyxqgEuxmxOj3mZ3tPSzgqpCBi7.jpg" group-title="|EN| ACTION",|EN| Jurassic Park III
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/220046.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Jurassic World" tvg-logo="http://84.17.46.97:25461/images/jjBgi2r5cRt36xF6iNUEhzscEcb_small.jpg" group-title="|EN| ACTION",|EN| Jurassic World
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/81075.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Jurassic World: Fallen Kingdom" tvg-logo="http://84.17.46.97:25461/images/c9XxwwhPHdaImA2f1WEfEsbhaFB_small.jpg" group-title="|EN| ACTION",|EN| Jurassic World: Fallen Kingdom
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/72948.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Spider-Man" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg" group-title="|EN| MARVEL",|EN| Spider-Man
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/172056.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Spider-Man 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg" group-title="|EN| MARVEL",|EN| Spider-Man 2
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/172029.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Spider Man 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jLxKF73SAPkyhIWrnv67IH7kJ1.jpg" group-title="|EN| MARVEL",|EN| Spider Man 3
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/172042.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Amazing Spider-Man" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIfkQNARYyERqRAq1p1c8xgePp4.jpg" group-title="|EN| MARVEL",|EN| The Amazing Spider-Man
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/172333.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Amazing Spider-Man 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAVzP7cQe4empWwl2LLj29LhtqY.jpg" group-title="|EN| MARVEL",|EN| The Amazing Spider-Man 2
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/172071.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Star Trek (MULTISUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg" group-title="|EN| SCI-FI",|EN| Star Trek
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/186049.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Star Trek Into Darkness (MULTISUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="|EN| SCI-FI",|EN| Star Trek Into Darkness
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/186077.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Star Trek Beyond (MULTISUB)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOnd3XQIg7JBmu0UuBjZyLdsxQD.jpg" group-title="|EN| SCI-FI",|EN| Star Trek Beyond
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/186053.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| The Matrix" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg" group-title="|EN| SCI-FI",|EN| The Matrix
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/214279.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| The Matrix Reloaded" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBegA6V243J6HUnpcOILsRvBnGb.jpg" group-title="|EN| SCI-FI",|EN| The Matrix Reloaded
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/219904.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| The Matrix Revolutions" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgm8OZ7o4G1G1I9EeGcb85Noe6L.jpg" group-title="|EN| SCI-FI",|EN| The Matrix Revolutions
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/219910.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| Wedding Crashers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg" group-title="|EN| COMEDY MOVIES",|EN| Wedding Crashers
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/79394.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|EN| 50 First Dates" tvg-logo="http://84.17.46.97:25461/images/vKKdsaq3OomDvFdpPpWVg0L6gB9_small.jpg" group-title="|EN| COMEDY MOVIES",|EN| 50 First Dates
+http://line.mytv-speed.com:80/movie/TD1NUJZYOM/6IHBSRQYXG/79209.mkv
