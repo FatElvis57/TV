@@ -87,7 +87,7 @@ http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png",Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309",FOX (WFXT)
+#EXTINF:-1 tvg-id="WFXTDT1.us" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309",FOX (WFXT)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Live Channels",FOX News Channel
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
