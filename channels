@@ -23,7 +23,7 @@ http://fl2.moveonjoy.com/BET_HER/index.m3u8
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-id="BET SOUL.us" tvg-name="BET_SOUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343" group-title="LIVE",BET Soul
 http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-id="Big Ten Network.us" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="SPORTS",Big Ten Network
+#EXTINF:-1 tvg-id="Big Ten Network (National)" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="SPORTS",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BLOOMBERG" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivUxvlPidC3M/v0/-1x-1.jpg" group-title="NEWS",Bloomberg
 http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
@@ -65,9 +65,9 @@ http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="MGM+ HDTV (East) - MGM+HD.us" tvg-name="EPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/2560px-Epix_Logo_2009.svg.png" group-title="MOVIE",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGM+ Marquee HDTV (East) - MGM+MRQ.us" tvg-name="EPIX_2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Epix2_logo.svg" group-title="MOVIE",EPIX 2
+#EXTINF:-1 tvg-id="MGM+ Hits HDTV (East) - MGM+HTHD.us" tvg-name="EPIX_2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Epix2_logo.svg" group-title="MOVIE",EPIX 2
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-id="MGM+ Hits HDTV (East) - MGM+HTHD.us" tvg-name="EPIX_HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="MOVIE",EPIX Hits
+#EXTINF:-1 tvg-id="MGM+ Marquee HDTV (East) - MGM+MRQ.us" tvg-name="EPIX_HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="MOVIE",EPIX Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="SPORTS",ESPN
 http://fl1.moveonjoy.com/ESPN/index.m3u8
