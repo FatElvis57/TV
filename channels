@@ -11,7 +11,7 @@ http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="BBC America.us" tvg-name="BBC_AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="NEWS",BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="BBC News.us" tvg-name="BBC_WORLD_NEWS" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png" group-title="NEWS",BBC World News
+#EXTINF:-1 tvg-id="BBC News HD - BBCWORLDHD.us" tvg-name="BBC_WORLD_NEWS" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png" group-title="NEWS",BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="beIN Sports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="SPORTS",beIN Sports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
@@ -21,7 +21,7 @@ http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
 #EXTINF:-1 tvg-id="BET Jams.us" tvg-name="BET Jams" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/BET_Jams_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230922123529" group-title="LIVE",BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-id="BET SOUL.us" tvg-name="BET_SOUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343" group-title="LIVE",BET Soul
+#EXTINF:-1 tvg-id="BET Soul.us" tvg-name="BET_SOUL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343" group-title="LIVE",BET Soul
 http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-id="Big Ten Network.us" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="SPORTS",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
@@ -43,7 +43,7 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="NEWS",CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
-#EXTINF:-1 tvg-id="Comedy Central.us" tvg-name="COMEDY_CENTRAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="MOVIE",Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central HD - COMEDYHD.us" tvg-name="COMEDY_CENTRAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="MOVIE",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="Cooking Channel.us" tvg-name="COOKING" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="LIVE",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -55,31 +55,29 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Life Channel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270" group-title="LIVE",Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="MOVIE",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel HD - DISNEYHD.us" tvg-name="DISNEY_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="MOVIE",Disney Channel
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="Disney Junior.us" tvg-name="DISNEY_JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="MOVIE",DisneyJr
+#EXTINF:-1 tvg-id="Disney Junior HD - DISNEYJRHD.us" tvg-name="DISNEY_JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="MOVIE",DisneyJr
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="Disney XD.us" tvg-name="DISNEY_XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="MOVIE",DisneyXD
+#EXTINF:-1 tvg-id="Disney XD HD - DISNEYXDHD.us" tvg-name="DISNEY_XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="MOVIE",DisneyXD
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="E!.us" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="LIVE",E! Entertainment Television
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.us" tvg-name="EPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/2560px-Epix_Logo_2009.svg.png" group-title="MOVIE",EPIX
+#EXTINF:-1 tvg-id="MGM+ HD - East (1891).us" tvg-name="EPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/2560px-Epix_Logo_2009.svg.png" group-title="MOVIE",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGM+ Hits.us" tvg-name="EPIX_2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Epix2_logo.svg" group-title="MOVIE",EPIX 2
-http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-id="MGM+ Marquee.us" tvg-name="EPIX_HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="MOVIE",EPIX Hits
+#EXTINF:-1 tvg-id="MGM+ Hits- East (893).us" tvg-name="EPIX_HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="MOVIE",EPIX Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="SPORTS",ESPN
 http://fl1.moveonjoy.com/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN_2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="SPORTS",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN NEWS" tvg-name="ESPN_NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="SPORTS",ESPNews
+#EXTINF:-1 tvg-id="ESPN News (604).us" tvg-name="ESPN_NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="SPORTS",ESPNews
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="SPORTS",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="Food Network.us" tvg-name="FOOD_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="LIVE",Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Fox.us" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="SPORTS",FOX
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="SPORTS",FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="Fox News.us" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="NEWS",FOX News Channel
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
@@ -91,11 +89,11 @@ http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="LIVE",Fuse
 http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="MOVIE",FX
+#EXTINF:-1 tvg-id="FX HD - FXHD.us" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="MOVIE",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FX Movie Channel.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="MOVIE",FXM
+#EXTINF:-1 tvg-id="FX Movie Channel HD - FXMHD.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="MOVIE",FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="MOVIE",FXX
+#EXTINF:-1 tvg-id="FXX HD - FXXHD.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="MOVIE",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="LIVE",FYI
 http://fl2.moveonjoy.com/FYI/index.m3u8
@@ -105,15 +103,15 @@ http://fl2.moveonjoy.com/GET_TV/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Hallmark_Drama_%28Gold%29.svg/revision/latest?cb=20171130164502" group-title="MOVIE",Hallmark Drama
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIE",HBO
+#EXTINF:-1 tvg-id="HBO HD - Eastern Feed (1802).us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIE",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIE",HBO 2
+#EXTINF:-1 tvg-id="HBO 2 - Eastern Feed HD (1804).us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIE",HBO 2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBO Comedy.us" tvg-name="HBO Comedy East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="MOVIE",HBO Comedy
+#EXTINF:-1 tvg-id="HBO Comedy HD - East (1810).us" tvg-name="HBO Comedy East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="MOVIE",HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family.us" tvg-name="HBO Family East" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="MOVIE",HBO Family
+#EXTINF:-1 tvg-id="HBO Family - Eastern Feed HD (1806).us" tvg-name="HBO Family East" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="MOVIE",HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBO Zone.us" tvg-name="HBO Zone East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="MOVIE",HBO Zone
+#EXTINF:-1 tvg-id="HBO Zone HD - East (1812).us" tvg-name="HBO Zone East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="MOVIE",HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="LIVE",HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
@@ -125,9 +123,9 @@ http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="LIVE",Laff TV
 http://72.46.118.193/Laff/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="MOVIE",Lifetime
+#EXTINF:-1 tvg-id="Lifetime HD - LIFEHD.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="MOVIE",Lifetime
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime Movie Network.us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="MOVIE",Lifetime Movies
+#EXTINF:-1 tvg-id="Lifetime Movies HD - East (1362).us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="MOVIE",Lifetime Movies
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV East" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="LIVE",MeTV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
@@ -171,7 +169,7 @@ http://fl2.moveonjoy.com/OWN/index.m3u8
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Oxygen.us" tvg-name="Oxygen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="LIVE",Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="MOVIE",Paramount
+#EXTINF:-1 tvg-id="Paramount Network.us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="MOVIE",Paramount
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Pop TV.us" tvg-name="PopTV" tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png" group-title="LIVE",PopTV
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
@@ -211,7 +209,7 @@ http://fl2.moveonjoy.com/SYFY/index.m3u8
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 tvg-id="Turner Classic Movies.us" tvg-name="TCM East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="MOVIE",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="SPORTS",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel.us" tvg-name="Tennis Channel" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="SPORTS",Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="LIVE",TLC
 http://fl2.moveonjoy.com/TLC/index.m3u8
