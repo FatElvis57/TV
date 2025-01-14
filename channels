@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/generate/unHEJGgRZp.xml.gz"
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="NEWS",ABC (WOLO)
+#EXTINF:-1 tvg-id="WABC-DT.us" tvg-name="ABC_EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="NEWS",ABC (WOLO)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ACC Network.us" tvg-name="ACC_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="LIVE",ACC Network
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
