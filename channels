@@ -17,6 +17,8 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Discovery HD (US) - Eastern (1120).us" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="LIVE",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="United States",FXX East
+http://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="LIVE",Laff TV
 http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="NEWS",NBC
