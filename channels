@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Columba)
+#EXTINF:-1 tvg-id="WABC-DT.us" tvg-name="WABC-DT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Detroit)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ACC Network.us" tvg-name="ACC_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1024px-ACC_Network_ESPN_logo.svg.png" group-title="LIVE",ACC Network
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
@@ -37,7 +37,7 @@ http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="LIVE" group-title="MOVIE",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
-#EXTINF:-1 tvg-id="Comedy Central HD - COMEDYHD.us" tvg-name="COMEDY_CENTRAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="MOVIE",Comedy Central
+#EXTINF:-1 tvg-id="HBO Comedy HD - East (1810).us" tvg-name="HBO Comedy HD - East (1810).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="MOVIE",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="Cooking Channel.us" tvg-name="COOKING" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="LIVE",Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -49,11 +49,11 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 http://fl3.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Life Channel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270" group-title="LIVE",Discovery Life
 http://fl3.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel HD - DISNEYHD.us" tvg-name="DISNEY_CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="MOVIE",Disney Channel
+#EXTINF:-1 tvg-id="DISNEYHD.us" tvg-name="DISNEYHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="MOVIE",Disney Channel EAST
 http://fl3.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="Disney Junior HD - DISNEYJRHD.us" tvg-name="DISNEY_JR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE",DisneyJr
+#EXTINF:-1 tvg-id="DISNEYJRHD.us" tvg-name="DISNEYJRHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="LIVE",DisneyJr
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="Disney XD HD - DISNEYXDHD.us" tvg-name="DISNEY_XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="LIVE",DisneyXD
+#EXTINF:-1 tvg-id="DISNEYXDHD.us" tvg-name="DISNEYXDHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="LIVE",DisneyXD
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="E! Entertainment USA HD - East (1134).us" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="LIVE",E! Entertainment Television
 http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
@@ -73,21 +73,21 @@ http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="Food Network.us" tvg-name="FOOD_NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="LIVE",Food Network
 http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Fox East" tvg-name="FOX_EAST" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="SPORTS",FOX
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX.us" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="SPORTS",FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS",FS1
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS",FS1
 http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="FS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS",FS2
+#EXTINF:-1 tvg-id="Fox Sports 2.us" tvg-name="Fox Sports 2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="SPORTS",FS2
 http://fl3.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="LIVE",Freeform
 http://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="LIVE",Fuse
 http://fl3.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FX HD - FXHD.us" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="MOVIE",FX
+#EXTINF:-1 tvg-id="FXHD.us" tvg-name="FXHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="MOVIE",FX
 http://fl5.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FX Movie Channel HD - FXMHD.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="MOVIE",FXM
+#EXTINF:-1 tvg-id="FXMHD.us" tvg-name="FXMHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="MOVIE",FXM
 http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="FXX HD - FXXHD.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="LIVE",FXX
+#EXTINF:-1 tvg-id="FXXHD.us" tvg-name="FXXHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="LIVE",FXX
 http://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="LIVE",FYI
 http://fl3.moveonjoy.com/FYI/index.m3u8
@@ -115,9 +115,9 @@ http://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 http://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="LIVE",Laff TV
 http://72.46.118.193/Laff/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime HD - LIFEHD.us" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="MOVIE",Lifetime
+#EXTINF:-1 tvg-id="Lifetime Movies HD - East (1362).us" tvg-name="Lifetime Movies HD - East (1362).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="MOVIE",Lifetime
 http://fl5.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime Movies HD - East (1362).us" tvg-name="Lifetime Movies Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="MOVIE",Lifetime Movies
+#EXTINF:-1 tvg-id="Lifetime Movie Network.us" tvg-name="Lifetime Movie Network.us" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="MOVIE",Lifetime Movies
 http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV East" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="LIVE",MeTV
 http://fl3.moveonjoy.com/ME_TV/index.m3u8
