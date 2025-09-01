@@ -61,6 +61,10 @@ http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 http://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGM+ Hits- East (893).us" tvg-name="EPIX_HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="MOVIE",EPIX Hits
 http://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-id="MGM+Marquee.us" tvg-name="Epix Marquee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="Live Channels",Epix Marquee 
+http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-id="MGM+Hits.us" tvg-name="Epix 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Epix2_logo.svg" group-title="Live Channels",Epix 2
+http://fl1.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN_2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="SPORTS",ESPN 2
 http://fl3.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN News (604).us" tvg-name="ESPN_NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="SPORTS",ESPNews
