@@ -59,11 +59,11 @@ http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="MGM+ HD - East (1891).us" tvg-name="EPIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/2560px-Epix_Logo_2009.svg.png" group-title="MOVIE",EPIX
 http://fl3.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGM+ Hits- East (893).us" tvg-name="EPIX_HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="MOVIE",EPIX Hits
+#EXTINF:-1 tvg-id="MGM+ Marquee HD (1894).us" tvg-name="MGM+ Marquee HD (1894).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="MOVIE",EPIX Marquee 1
 http://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-id="MGM+Marquee.us" tvg-name="Epix Marquee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="Live Channels",Epix Marquee 
+#EXTINF:-1 tvg-id="MGM+ Marquee HD (1894).us" tvg-name="MGM+ Marquee HD (1894).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Epix_Hits_logo.svg" group-title="Live Channels",Epix Marquee 2 
 http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
-#EXTINF:-1 tvg-id="MGM+Hits.us" tvg-name="Epix 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Epix2_logo.svg" group-title="Live Channels",Epix 2
+#EXTINF:-1 tvg-id="MGM+ Hits- East (893).us" tvg-name="MGM+ Hits- East (893).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Epix2_logo.svg" group-title="Live Channels",Epix 2
 http://fl1.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN_2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="SPORTS",ESPN 2
 http://fl3.moveonjoy.com/ESPN_2/index.m3u8
@@ -101,9 +101,9 @@ http://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 http://fl3.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2 - Eastern Feed HD (1804).us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIE",HBO 2
 http://fl3.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBO Comedy HD - East (1810).us" tvg-name="HBO Comedy East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="MOVIE",HBO Comedy
+#EXTINF:-1 tvg-id="HBO Comedy HD - East (1810).us" tvg-name="HBO Comedy HD - East (1810).us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="MOVIE",HBO Comedy
 http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family - Eastern Feed HD (1806).us" tvg-name="HBO Family East" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="MOVIE",HBO Family
+#EXTINF:-1 tvg-id="HBO Family.us" tvg-name="HBO Family.us" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="MOVIE",HBO Family
 http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBO Zone HD - East (1812).us" tvg-name="HBO Zone East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="MOVIE",HBO Zone
 http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
