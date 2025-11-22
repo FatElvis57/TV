@@ -27,9 +27,9 @@ http://tvscreen.icu:8080/0bXF3D/735200/46703
 http://tvscreen.icu:8080/0bXF3D/735200/20859
 #EXTINF:-1 tvg-name="US CBS News " group-title="News",US: CBS News
 http://tvscreen.icu:8080/0bXF3D/735200/21259
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT" group-title="Movies",US: CMT
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="USA: CMT" group-title="Movies",US: CMT
 http://tvscreen.icu:8080/0bXF3D/735200/46706
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT HD" tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="Movies",US: CMT HD
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="USA: CMT HD" tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="Movies",US: CMT HD
 http://tvscreen.icu:8080/0bXF3D/735200/10476
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA",US: CNBC
 http://tvscreen.icu:8080/0bXF3D/735200/9815
