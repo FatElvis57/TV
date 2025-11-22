@@ -1,197 +1,197 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="nhl.network.usa.us" tvg-name="US NHL Network " tvg-logo="https://w0.pngwave.com/png/667/452/national-hockey-league-ice-hockey-stanley-cup-playoffs-logo-1967-nhl-expansion-nhl-logo-png-clip-art.png" group-title="Sports",US: NHL Network
+#EXTINF:-1 tvg-id="NHL Network USA HD.us" tvg-name="US NHL Network " tvg-logo="https://w0.pngwave.com/png/667/452/national-hockey-league-ice-hockey-stanley-cup-playoffs-logo-1967-nhl-expansion-nhl-logo-png-clip-art.png" group-title="Sports",US: NHL Network
 http://tvscreen.icu:8080/0bXF3D/735200/20179
-#EXTINF:-1 tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="Sports",CA: NBA TV
+#EXTINF:-1 tvg-name="NBA TV Canada TV HD.ca" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="Sports",CA: NBA TV
 http://tvscreen.icu:8080/0bXF3D/735200/22995
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="Sports",US: NBA TV
+#EXTINF:-1 tvg-id="NBA TV USA HD.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="Sports",US: NBA TV
 http://tvscreen.icu:8080/0bXF3D/735200/20073
-#EXTINF:-1 tvg-id="mlb.network.us" tvg-name="MLB Network" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="Sports",MLB Network
+#EXTINF:-1 tvg-id="MLB Network HD.us" tvg-name="MLB Network" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="Sports",MLB Network
 http://tvscreen.icu:8080/0bXF3D/735200/21360
 #EXTINF:-1 tvg-id="cbnnews.us" tvg-name="US CBSN New York (D)" group-title="News",US: CBSN New York (D)
 http://tvscreen.icu:8080/0bXF3D/735200/46754
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US FOX Sports 1 " group-title="Sports",US: FOX Sports 1
+#EXTINF:-1 tvg-id="Fox Sports 1.us" tvg-name="US FOX Sports 1 " group-title="Sports",US: FOX Sports 1
 http://tvscreen.icu:8080/0bXF3D/735200/46792
-#EXTINF:-1 tvg-id="aande.us" tvg-name="USA: A&E" group-title="USA",US: A&E
+#EXTINF:-1 tvg-id="AAndE.us" tvg-name="USA: A&E" group-title="USA",US: A&E
 http://tvscreen.icu:8080/0bXF3D/735200/59056
-#EXTINF:-1 tvg-name="USA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="USA",US: ABC
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="USA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="USA",US: ABC
 http://tvscreen.icu:8080/0bXF3D/735200/22990
-#EXTINF:-1 tvg-id="amc.us" tvg-name="US AMC " tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="Movies",US: AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US AMC " tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="Movies",US: AMC
 http://tvscreen.icu:8080/0bXF3D/735200/18925
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US Animal Planet " tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" group-title="USA",US: Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet.us" tvg-name="US Animal Planet " tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" group-title="USA",US: Animal Planet
 http://tvscreen.icu:8080/0bXF3D/735200/17870
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US BBC America" tvg-logo="https://b1.pngbarn.com/png/484/73/tv-channel-icons-pack-bbc-america-black-png-clip-art.png" group-title="USA",US: BBC America
+#EXTINF:-1 tvg-id="BBC America.us" tvg-name="US BBC America" tvg-logo="https://b1.pngbarn.com/png/484/73/tv-channel-icons-pack-bbc-america-black-png-clip-art.png" group-title="USA",US: BBC America
 http://tvscreen.icu:8080/0bXF3D/735200/20194
 #EXTINF:-1 tvg-id="bet.us" tvg-name="US BET (East) " group-title="Movies",US: BET (East)
 http://tvscreen.icu:8080/0bXF3D/735200/46703
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="US Bravo (East)   " tvg-logo="https://www.clipartmax.com/png/middle/114-1140555_bravotv-my-sad-addiction-bravo-tv-logo-png.png" group-title="Movies",US: Bravo (East)
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US Bravo (East)   " tvg-logo="https://www.clipartmax.com/png/middle/114-1140555_bravotv-my-sad-addiction-bravo-tv-logo-png.png" group-title="Movies",US: Bravo (East)
 http://tvscreen.icu:8080/0bXF3D/735200/20859
-#EXTINF:-1 tvg-name="US CBS News " group-title="News",US: CBS News
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="US CBS News " group-title="News",US: CBS News
 http://tvscreen.icu:8080/0bXF3D/735200/21259
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="USA: CMT" group-title="Movies",US: CMT
+#EXTINF:-1 tvg-id="CMT HDTV (East).us" tvg-name="USA: CMT" group-title="Movies",US: CMT
 http://tvscreen.icu:8080/0bXF3D/735200/46706
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="USA: CMT HD" tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="Movies",US: CMT HD
+#EXTINF:-1 tvg-id="CMT HDTV (East).us" tvg-name="USA: CMT HD" tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="Movies",US: CMT HD
 http://tvscreen.icu:8080/0bXF3D/735200/10476
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA",US: CNBC
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA",US: CNBC
 http://tvscreen.icu:8080/0bXF3D/735200/9815
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US Comedy Central (East) " tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png" group-title="USA",US: Comedy Central (East)
+#EXTINF:-1 tvg-id="Comedy Central.us" tvg-name="US Comedy Central (East) " tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png" group-title="USA",US: Comedy Central (East)
 http://tvscreen.icu:8080/0bXF3D/735200/7466
 #EXTINF:-1 tvg-id="Cooking Channel.us" tvg-name="US Cooking Channel" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.cook/icon/icon.png" group-title="USA",US: Cooking Channel
 http://tvscreen.icu:8080/0bXF3D/735200/9229
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Discovery Channel (East)" group-title="USA",US: Discovery Channel (East)
+#EXTINF:-1 tvg-id="Discovery Channel.us" tvg-name="US Discovery Channel (East)" group-title="USA",US: Discovery Channel (East)
 http://tvscreen.icu:8080/0bXF3D/735200/46720
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Discovery Channel East" tvg-logo="https://logodix.com/logo/997920.png" group-title="USA",US: Discovery Channel East
+#EXTINF:-1 tvg-id="Discovery Channel.us" tvg-name="US Discovery Channel East" tvg-logo="https://logodix.com/logo/997920.png" group-title="USA",US: Discovery Channel East
 http://tvscreen.icu:8080/0bXF3D/735200/9811
-#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA: DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="USA",US: DISCOVERY FAMILY
+#EXTINF:-1 tvg-id="Discovery Family Channel HD.us" tvg-name="USA: DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="USA",US: DISCOVERY FAMILY
 http://tvscreen.icu:8080/0bXF3D/735200/10538
-#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA: Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="USA",US: Discovery Life HD
+#EXTINF:-1 tvg-id="Discovery Life Channel HD.us" tvg-name="USA: Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="USA",US: Discovery Life HD
 http://tvscreen.icu:8080/0bXF3D/735200/9861
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA: Food Network HD" tvg-logo="https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png" group-title="USA",US: Food Network HD
+#EXTINF:-1 tvg-id="Food Network.us" tvg-name="USA: Food Network HD" tvg-logo="https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png" group-title="USA",US: Food Network HD
 http://tvscreen.icu:8080/0bXF3D/735200/7323
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US Fox News" tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="News",US: Fox News
+#EXTINF:-1 tvg-id="Fox News.us" tvg-name="US Fox News" tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="News",US: Fox News
 http://tvscreen.icu:8080/0bXF3D/735200/1818
-#EXTINF:-1 tvg-id="fx.us" tvg-name="US FX East" group-title="Movies",US: FX East
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US FX East" group-title="Movies",US: FX East
 http://tvscreen.icu:8080/0bXF3D/735200/46690
-#EXTINF:-1 tvg-id="fxm.us" tvg-name="US FXM" tvg-logo="https://lamac.org/wp-content/uploads/2020/04/Group-63@2x.png" group-title="Movies",US: FXM
+#EXTINF:-1 tvg-id="FX Movie Channel HD.us" tvg-name="US FXM" tvg-logo="https://lamac.org/wp-content/uploads/2020/04/Group-63@2x.png" group-title="Movies",US: FXM
 http://tvscreen.icu:8080/0bXF3D/735200/10260
-#EXTINF:-1 tvg-id="gettv.us" tvg-name="US GetTV" tvg-logo="https://logodix.com/logo/1826254.png" group-title="USA",US: GetTV
+#EXTINF:-1 tvg-id="WFUT GetTV.us" tvg-name="US GetTV" tvg-logo="https://logodix.com/logo/1826254.png" group-title="USA",US: GetTV
 http://tvscreen.icu:8080/0bXF3D/735200/18366
-#EXTINF:-1 tvg-id="grit.us" tvg-name="US Grit TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" group-title="USA",US: Grit TV
+#EXTINF:-1 tvg-id="Grit Network HD.us" tvg-name="US Grit TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" group-title="USA",US: Grit TV
 http://tvscreen.icu:8080/0bXF3D/735200/20861
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US Hallmark Channel" group-title="Movies",US: Hallmark Channel
+#EXTINF:-1 tvg-id="Hallmark Channel (East).us" tvg-name="US Hallmark Channel" group-title="Movies",US: Hallmark Channel
 http://tvscreen.icu:8080/0bXF3D/735200/46719
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="US Hallmark Drama" tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png" group-title="Movies",US: Hallmark Drama
 http://tvscreen.icu:8080/0bXF3D/735200/9307
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US Hallmark Movies & Mysteries" tvg-logo="https://p.kindpng.com/picc/s/196-1969955_hallmark-movies-and-mysteries-channel-logo-hd-png.png" group-title="Movies",US: Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-id="Hallmark Movies and Mysteries.us" tvg-name="US Hallmark Movies & Mysteries" tvg-logo="https://p.kindpng.com/picc/s/196-1969955_hallmark-movies-and-mysteries-channel-logo-hd-png.png" group-title="Movies",US: Hallmark Movies & Mysteries
 http://tvscreen.icu:8080/0bXF3D/735200/10289
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO East HD" group-title="Movies",US: HBO East HD
+#EXTINF:-1 tvg-id="HBO - Eastern Feed (802).us" tvg-name="US HBO East HD" group-title="Movies",US: HBO East HD
 http://tvscreen.icu:8080/0bXF3D/735200/46713
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime" group-title="Movies",US: Lifetime
+#EXTINF:-1 tvg-id="Lifetime Television HDTV (East).us" tvg-name="US Lifetime" group-title="Movies",US: Lifetime
 http://tvscreen.icu:8080/0bXF3D/735200/46714
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime Movie" tvg-logo="https://juicetv.app/channellogo/lmn2.png" group-title="Movies",US: Lifetime Movie
+#EXTINF:-1 tvg-id="Lifetime Movies HDTV (East).us" tvg-name="US Lifetime Movie" tvg-logo="https://juicetv.app/channellogo/lmn2.png" group-title="Movies",US: Lifetime Movie
 http://tvscreen.icu:8080/0bXF3D/735200/2208
-#EXTINF:-1 tvg-id="metv.us" tvg-name="US MeTV Network East" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="USA",US: MeTV Network East
+#EXTINF:-1 tvg-id="MeTV (WJLP) New Jersey/New York HD.us" tvg-name="US MeTV Network East" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="USA",US: MeTV Network East
 http://tvscreen.icu:8080/0bXF3D/735200/16149
-#EXTINF:-1 tvg-id="motortrend.us" tvg-name="US MotorTrend (A)" tvg-logo="https://www.affaritaliani.it/static/upl2018_restyle/moto/motortrend-logo1.PNG" group-title="USA",US: MotorTrend (A)
+#EXTINF:-1 tvg-id="Motor Trend HD.us" tvg-name="US MotorTrend (A)" tvg-logo="https://www.affaritaliani.it/static/upl2018_restyle/moto/motortrend-logo1.PNG" group-title="USA",US: MotorTrend (A)
 http://tvscreen.icu:8080/0bXF3D/735200/10399
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US National Geographic (East)" tvg-logo="https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png" group-title="USA",US: National Geographic (East)
+#EXTINF:-1 tvg-id="National Geographic US HD - Eastern (1265).us" tvg-name="US National Geographic (East)" tvg-logo="https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png" group-title="USA",US: National Geographic (East)
 http://tvscreen.icu:8080/0bXF3D/735200/9277
-#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA: NBC" group-title="USA",US: NBC
+#EXTINF:-1 tvg-id="NBC (WNBC) New York, NY HD.us" tvg-name="USA: NBC" group-title="USA",US: NBC
 http://tvscreen.icu:8080/0bXF3D/735200/46687
 #EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="US NESN" group-title="USA",US: NESN
 http://tvscreen.icu:8080/0bXF3D/735200/46726
-#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network" group-title="USA",US: Paramount Network
+#EXTINF:-1 tvg-id="Paramount Network (East).us" tvg-name="US Paramount Network" group-title="USA",US: Paramount Network
 http://tvscreen.icu:8080/0bXF3D/735200/46694
 #EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount TV " tvg-logo="https://e7.pngegg.com/pngimages/707/232/png-clipart-paramount-logo-brand-park-font-park-text-photography-thumbnail.png" group-title="USA",US: Paramount TV
 http://tvscreen.icu:8080/0bXF3D/735200/10464
-#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="US Reelz " tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" group-title="USA",US: Reelz
+#EXTINF:-1 tvg-id="ReelzChannel HD.us" tvg-name="US Reelz " tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" group-title="USA",US: Reelz
 http://tvscreen.icu:8080/0bXF3D/735200/10526
 #EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA: AMC Thrillers" group-title="Movies",US: AMC Thrillers
 http://tvscreen.icu:8080/0bXF3D/735200/66243
-#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US SUNDANCE" group-title="Movies",US: SUNDANCE
+#EXTINF:-1 tvg-id="SundanceTV USA - East (798).us" tvg-name="US SUNDANCE" group-title="Movies",US: SUNDANCE
 http://tvscreen.icu:8080/0bXF3D/735200/46712
-#EXTINF:-1 tvg-id="syfy.us" tvg-name="US Syfy (East)" group-title="USA",US: Syfy (East)
+#EXTINF:-1 tvg-id="Syfy (East).us" tvg-name="US Syfy (East)" group-title="USA",US: Syfy (East)
 http://tvscreen.icu:8080/0bXF3D/735200/46685
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="US TBS" tvg-logo="https://image.flaticon.com/icons/png/128/826/826355.png" group-title="USA",US: TBS
+#EXTINF:-1 tvg-id="TBS - East HD (1112).us" tvg-name="US TBS" tvg-logo="https://image.flaticon.com/icons/png/128/826/826355.png" group-title="USA",US: TBS
 http://tvscreen.icu:8080/0bXF3D/735200/20867
-#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC East" tvg-logo="https://logos.xmltv.se/en.tlc.discovery.dk.png" group-title="USA",US: TLC East
+#EXTINF:-1 tvg-id="TLC USA HD - Eastern (1250).us" tvg-name="US TLC East" tvg-logo="https://logos.xmltv.se/en.tlc.discovery.dk.png" group-title="USA",US: TLC East
 http://tvscreen.icu:8080/0bXF3D/735200/12734
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="US TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA",US: TNT East
+#EXTINF:-1 tvg-id="TNT HD - East Feed (1108).us" tvg-name="US TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA",US: TNT East
 http://tvscreen.icu:8080/0bXF3D/735200/10455
-#EXTINF:-1 tvg-id="trutv.us" tvg-name="US TRUTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="USA",US: TRUTV East
+#EXTINF:-1 tvg-id="truTV USA - East HD (1164).us" tvg-name="US TRUTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="USA",US: TRUTV East
 http://tvscreen.icu:8080/0bXF3D/735200/10224
-#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="CA Turner Classic Movies" group-title="Movies",CA: Turner Classic Movies
+#EXTINF:-1 tvg-id="Turner Classic Movies Canada HD.us" tvg-name="CA Turner Classic Movies" group-title="Movies",CA: Turner Classic Movies
 http://tvscreen.icu:8080/0bXF3D/735200/66242
-#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US TV Land" group-title="USA",US: TV Land
+#EXTINF:-1 tvg-id="TV Land (East).us" tvg-name="US TV Land" group-title="USA",US: TV Land
 http://tvscreen.icu:8080/0bXF3D/735200/46696
 #EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA: TV Land Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png" group-title="USA",US: TV Land Classic HD
 http://tvscreen.icu:8080/0bXF3D/735200/9271
-#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US USA Network (East)" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="USA",US: USA Network (East)
+#EXTINF:-1 tvg-id="USA Network (East).us" tvg-name="US USA Network (East)" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="USA",US: USA Network (East)
 http://tvscreen.icu:8080/0bXF3D/735200/10252
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 (East)" group-title="USA",US: VH1 (East)
 http://tvscreen.icu:8080/0bXF3D/735200/46705
-#EXTINF:-1 tvg-id="wetv.us" tvg-name="US WE tv" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/we.png" group-title="USA",US: WE tv
+#EXTINF:-1 tvg-id="WE HD.us" tvg-name="US WE tv" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/we.png" group-title="USA",US: WE tv
 http://tvscreen.icu:8080/0bXF3D/735200/9237
 #EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="US Game Show Network" group-title="USA",US: Game Show Network
 http://tvscreen.icu:8080/0bXF3D/735200/120633
-#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="US The Cowboy Channel" group-title="USA",US: The Cowboy Channel
+#EXTINF:-1 tvg-id="The Cowboy Channel HD.us" tvg-name="US The Cowboy Channel" group-title="USA",US: The Cowboy Channel
 http://tvscreen.icu:8080/0bXF3D/735200/122527
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="US Fox News" tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="News",US: Fox News
 http://tvscreen.icu:8080/0bXF3D/735200/1818
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" group-title="Movies",UK: SKY CINEMA ACTION FHD
+#EXTINF:-1 tvg-id="Sky Cinema Action HD.uk" tvg-name="UK: SKY CINEMA ACTION FHD" group-title="Movies",UK: SKY CINEMA ACTION FHD
 http://tvscreen.icu:8080/0bXF3D/735200/35254
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" group-title="Movies",UK: SKY CINEMA DRAMA
+#EXTINF:-1 tvg-id="Sky Cinema Drama HD.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" group-title="Movies",UK: SKY CINEMA DRAMA
 http://tvscreen.icu:8080/0bXF3D/735200/35251
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " group-title="Movies",UK: Sky Cinema Scifi & Horror FHD
+#EXTINF:-1 tvg-id="Sky Cinema Sci Fi and Horror HD.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " group-title="Movies",UK: Sky Cinema Scifi & Horror FHD
 http://tvscreen.icu:8080/0bXF3D/735200/35248
-#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" group-title="Movies",UK: SKY COMEDY
+#EXTINF:-1 tvg-id="Sky Cinema Comedy HD.uk" tvg-name="UK MOVIES: SKY COMEDY" group-title="Movies",UK: SKY COMEDY
 http://tvscreen.icu:8080/0bXF3D/735200/35253
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="Movies",UK: SKY CRIME THRILLER
 http://tvscreen.icu:8080/0bXF3D/735200/35252
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" group-title="Movies",UK: SKY GREATS
+#EXTINF:-1 tvg-id="Sky Cinema Greats HD.uk" tvg-name="UK MOVIES: SKY GREATS" group-title="Movies",UK: SKY GREATS
 http://tvscreen.icu:8080/0bXF3D/735200/35249
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" group-title="Movies",UK: Sky Cinema Premier
+#EXTINF:-1 tvg-id="Sky Cinema Premiere HD.uk" tvg-name="UK-Sky Cinema Premier" group-title="Movies",UK: Sky Cinema Premier
 http://tvscreen.icu:8080/0bXF3D/735200/35256
-#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="Movies",US: SONY Movies FHD
+#EXTINF:-1 tvg-id="Sony Movies HD.us" tvg-name="US SONY Movies FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="Movies",US: SONY Movies FHD
 http://tvscreen.icu:8080/0bXF3D/735200/2214
 #EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="Movies",US: Lifetime Movies
 http://tvscreen.icu:8080/0bXF3D/735200/20863
 #EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US STARZ ENCORE Black" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US: STARZ ENCORE Black
 http://tvscreen.icu:8080/0bXF3D/735200/16141
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",US: Showtime NEXT
+#EXTINF:-1 tvg-id="Showtime Next - Eastern (864).us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",US: Showtime NEXT
 http://tvscreen.icu:8080/0bXF3D/735200/9316
-#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA:  STARZ EDGE" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US: STARZ EDGE
+#EXTINF:-1 tvg-id="Starz Edge HD - Eastern (1904).us" tvg-name="USA:  STARZ EDGE" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US: STARZ EDGE
 http://tvscreen.icu:8080/0bXF3D/735200/16143
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US 5 StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="Movies",US: 5 StarMax
+#EXTINF:-1 tvg-id="5 Star MAX.us" tvg-name="US 5 StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="Movies",US: 5 StarMax
 http://tvscreen.icu:8080/0bXF3D/735200/13381
-#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East)" group-title="Movies",US: ActionMAX (East)
+#EXTINF:-1 tvg-id="Action MAX.us" tvg-name="US ActionMAX (East)" group-title="Movies",US: ActionMAX (East)
 http://tvscreen.icu:8080/0bXF3D/735200/21013
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",US: Cinemax (East)
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",US: Cinemax (East)
 http://tvscreen.icu:8080/0bXF3D/735200/13380
-#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",US: EPIX (East)
+#EXTINF:-1 tvg-id="MGM HD (USA).us" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",US: EPIX (East)
 http://tvscreen.icu:8080/0bXF3D/735200/13214
 #EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="Movies",US: Epix Drive IN (S)
 http://tvscreen.icu:8080/0bXF3D/735200/14193
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="Movies",US: Epix Hits
+#EXTINF:-1 tvg-id="MGM+ Marquee HD.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="Movies",US: Epix Hits
 http://tvscreen.icu:8080/0bXF3D/735200/12744
-#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",US: EPIX2 (East)
+#EXTINF:-1 tvg-id="MGM+ On Demand HD.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="Movies",US: EPIX2 (East)
 http://tvscreen.icu:8080/0bXF3D/735200/12730
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",US: HBO
+#EXTINF:-1 tvg-id="HBO - Eastern Feed (802).us" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",US: HBO
 http://tvscreen.icu:8080/0bXF3D/735200/9264
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",US: HBO 2 (A)
+#EXTINF:-1 tvg-id="HBO 2 - Eastern Feed HD (1804).us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="Movies",US: HBO 2 (A)
 http://tvscreen.icu:8080/0bXF3D/735200/9816
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East)" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="Movies",US: HBO Comedy (East)
+#EXTINF:-1 tvg-id="HBO Comedy HD - East (1810).us" tvg-name="US HBO Comedy (East)" tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="Movies",US: HBO Comedy (East)
 http://tvscreen.icu:8080/0bXF3D/735200/17773
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies",US: HBO Family (East)
+#EXTINF:-1 tvg-id="HBO Family - Eastern Feed HD (1806).us" tvg-name="US HBO Family (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies",US: HBO Family (East)
 http://tvscreen.icu:8080/0bXF3D/735200/17772
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East)" tvg-logo="https://logodix.com/logo/1111252.png" group-title="Movies",US: HBO SIGNATURE (East)
+#EXTINF:-1 tvg-id="HBO Signature (HBO 3) - Eastern HD (1808).us" tvg-name="US HBO SIGNATURE (East)" tvg-logo="https://logodix.com/logo/1111252.png" group-title="Movies",US: HBO SIGNATURE (East)
 http://tvscreen.icu:8080/0bXF3D/735200/9266
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movies",US: HBO Zone (East)
+#EXTINF:-1 tvg-id="HBO Zone HD - East (1812).us" tvg-name="US HBO Zone (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="Movies",US: HBO Zone (East)
 http://tvscreen.icu:8080/0bXF3D/735200/9265
-#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES" tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="Movies",US: HDNET MOVIES
+#EXTINF:-1 tvg-id="HDNet Movies HD.us" tvg-name="US HDNET MOVIES" tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="Movies",US: HDNET MOVIES
 http://tvscreen.icu:8080/0bXF3D/735200/16265
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",US: More Max
+#EXTINF:-1 tvg-id="MoreMax - Eastern HD (1834).us" tvg-name="US More Max" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",US: More Max
 http://tvscreen.icu:8080/0bXF3D/735200/17776
-#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US MovieMAX (East)" tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="Movies",US: MovieMAX (East)
+#EXTINF:-1 tvg-id="MOVIEplex HD - Eastern (1909).us" tvg-name="US MovieMAX (East)" tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="Movies",US: MovieMAX (East)
 http://tvscreen.icu:8080/0bXF3D/735200/13480
-#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US MoviePlex (East)" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="Movies",US: MoviePlex (East)
+#EXTINF:-1 tvg-id="MOVIEplex HD - Eastern (1909).us" tvg-name="US MoviePlex (East)" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="Movies",US: MoviePlex (East)
 http://tvscreen.icu:8080/0bXF3D/735200/1829
-#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" group-title="Movies",US: Cinemax Outermax (X)
+#EXTINF:-1 tvg-id="OuterMax - Eastern (844).us" tvg-name="US Cinemax Outermax (X)" group-title="Movies",US: Cinemax Outermax (X)
 http://tvscreen.icu:8080/0bXF3D/735200/21012
-#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East)" group-title="Movies",US: RetroPlex (East)
+#EXTINF:-1 tvg-id="RETROplex HD.us" tvg-name="US RetroPlex (East)" group-title="Movies",US: RetroPlex (East)
 http://tvscreen.icu:8080/0bXF3D/735200/66379
 #EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East" group-title="Movies",US: Showtime East
 http://tvscreen.icu:8080/0bXF3D/735200/46214
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="Movies",US: Showtime 2 (East) (H)
+#EXTINF:-1 tvg-id="Showtime 2 HD - Eastern (1854).us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="Movies",US: Showtime 2 (East) (H)
 http://tvscreen.icu:8080/0bXF3D/735200/13219
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",US: Showtime Extreme (East) (SP)
+#EXTINF:-1 tvg-id="Showtime Extreme HD - Eastern (1858).us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="Movies",US: Showtime Extreme (East) (SP)
 http://tvscreen.icu:8080/0bXF3D/735200/13220
-#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="Movies",US: Showtime Family Zone (East)
+#EXTINF:-1 tvg-id="Showtime Family Zone - Eastern (862).us" tvg-name="US Showtime Family Zone (East)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="Movies",US: Showtime Family Zone (East)
 http://tvscreen.icu:8080/0bXF3D/735200/13481
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East)" tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="Movies",US: Showtime Women (East)
+#EXTINF:-1 tvg-id="Showtime Women HD - Eastern (1866).us" tvg-name="US Showtime Women (East)" tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="Movies",US: Showtime Women (East)
 http://tvscreen.icu:8080/0bXF3D/735200/17778
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US: Starz Cinema (East)
+#EXTINF:-1 tvg-id="Starz Cinema - Eastern (908).us" tvg-name="US Starz Cinema (East)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US: Starz Cinema (East)
 http://tvscreen.icu:8080/0bXF3D/735200/17775
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US: Starz Cinema (East)
+#EXTINF:-1 tvg-id="Starz Cinema - Eastern (908).us" tvg-name="US Starz Cinema (East)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US: Starz Cinema (East)
 http://tvscreen.icu:8080/0bXF3D/735200/17775
 #EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US: Starz East (S)
 http://tvscreen.icu:8080/0bXF3D/735200/9299
@@ -201,127 +201,127 @@ http://tvscreen.icu:8080/0bXF3D/735200/16263
 http://tvscreen.icu:8080/0bXF3D/735200/17779
 #EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="Movies",US: Starz West (S)
 http://tvscreen.icu:8080/0bXF3D/735200/21091
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US ThrillerMax (East)" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="Movies",US: ThrillerMax (East)
+#EXTINF:-1 tvg-id="ThrillerMax - East HD (1838).us" tvg-name="US ThrillerMax (East)" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="Movies",US: ThrillerMax (East)
 http://tvscreen.icu:8080/0bXF3D/735200/17774
-#EXTINF:-1 tvg-id="aptn.ca" tvg-name="CA : APTN" group-title="CANADA",CA: APTN
+#EXTINF:-1 tvg-id="APTN HD.us" tvg-name="CA : APTN" group-title="CANADA",CA: APTN
 http://tvscreen.icu:8080/0bXF3D/735200/57320
-#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" group-title="CANADA",CA: A&E
+#EXTINF:-1 tvg-id="AAndE Canada HD.us" tvg-name="CA: A&E" group-title="CANADA",CA: A&E
 http://tvscreen.icu:8080/0bXF3D/735200/57476
 #EXTINF:-1 tvg-id="aande.ca" tvg-name="CA A&E " group-title="CANADA",CA: A&E
 http://tvscreen.icu:8080/0bXF3D/735200/57264
-#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA: ABC SPARK" group-title="CANADA",CA: ABC SPARK
+#EXTINF:-1 tvg-id="ABC Spark HD.ca" tvg-name="CA: ABC SPARK" group-title="CANADA",CA: ABC SPARK
 http://tvscreen.icu:8080/0bXF3D/735200/57375
-#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" group-title="Movies",CA: AMC
+#EXTINF:-1 tvg-id="AMC - Canada HD.ca" tvg-name="CA: AMC" group-title="Movies",CA: AMC
 http://tvscreen.icu:8080/0bXF3D/735200/57376
 #EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="CA: Animal Planet" group-title="CANADA",CA: Animal Planet
 http://tvscreen.icu:8080/0bXF3D/735200/57377
-#EXTINF:-1 tvg-id="bnn.ca" tvg-name="CA: BNN Bloomberg HD" group-title="News",CA: BNN Bloomberg HD
+#EXTINF:-1 tvg-id="BNN Bloomberg HD.us" tvg-name="CA: BNN Bloomberg HD" group-title="News",CA: BNN Bloomberg HD
 http://tvscreen.icu:8080/0bXF3D/735200/57358
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="CA: Bravo" group-title="CANADA",CA: Bravo
+#EXTINF:-1 tvg-id="Bravo Canada HD.us" tvg-name="CA: Bravo" group-title="CANADA",CA: Bravo
 http://tvscreen.icu:8080/0bXF3D/735200/57379
-#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA CBC NEWS NETWORK (E)" group-title="News",CA: CBC NEWS NETWORK (E)
+#EXTINF:-1 tvg-id="CBC News Network HD.us" tvg-name="CA CBC NEWS NETWORK (E)" group-title="News",CA: CBC NEWS NETWORK (E)
 http://tvscreen.icu:8080/0bXF3D/735200/57304
-#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA CBC Toronto " group-title="CANADA",CA: CBC Toronto
+#EXTINF:-1 tvg-id="CBC (CBLT) Toronto, ON HD.us" tvg-name="CA CBC Toronto " group-title="CANADA",CA: CBC Toronto
 http://tvscreen.icu:8080/0bXF3D/735200/57260
 #EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC TORONTO" group-title="CANADA",CA: CBC TORONTO
 http://tvscreen.icu:8080/0bXF3D/735200/57306
 #EXTINF:-1 tvg-id="chch.ca" tvg-name="CA CHCH (E)" group-title="News",CA: CHCH (E)
 http://tvscreen.icu:8080/0bXF3D/735200/57393
-#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA: CITY TV TORONTO HD" group-title="News",CA: CITY TV TORONTO HD
+#EXTINF:-1 tvg-id="CITY Toronto, ON HD.us" tvg-name="CA: CITY TV TORONTO HD" group-title="News",CA: CITY TV TORONTO HD
 http://tvscreen.icu:8080/0bXF3D/735200/57307
-#EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA CMT" group-title="CANADA",CA: CMT
+#EXTINF:-1 tvg-id="CMT Canada HD.us" tvg-name="CA CMT" group-title="CANADA",CA: CMT
 http://tvscreen.icu:8080/0bXF3D/735200/57258
-#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA CNN " group-title="News",CA: CNN
+#EXTINF:-1 tvg-id="CNN HD.ca" tvg-name="CA CNN " group-title="News",CA: CNN
 http://tvscreen.icu:8080/0bXF3D/735200/47213
-#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 News HD (D)" group-title="News",CA: CP24 News HD (D)
+#EXTINF:-1 tvg-id="CP24 (CablePulse 24) HD.us" tvg-name="CA CP24 News HD (D)" group-title="News",CA: CP24 News HD (D)
 http://tvscreen.icu:8080/0bXF3D/735200/57357
-#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA CP24 News HD (E)" group-title="News",CA: CP24 News HD (E)
+#EXTINF:-1 tvg-id="CP24 (CablePulse 24) HD.us" tvg-name="CA CP24 News HD (E)" group-title="News",CA: CP24 News HD (E)
 http://tvscreen.icu:8080/0bXF3D/735200/57401
-#EXTINF:-1 tvg-id="cablepulse24.ca" tvg-name="CA: CP24 HD" group-title="News",CA: CP24 HD
+#EXTINF:-1 tvg-id="CP24 (CablePulse 24) HD.us" tvg-name="CA: CP24 HD" group-title="News",CA: CP24 HD
 http://tvscreen.icu:8080/0bXF3D/735200/57257
-#EXTINF:-1 tvg-id="crave1.ca" tvg-name="CA: CRAVE 1 HD" group-title="Movies",CA: CRAVE 1 HD
+#EXTINF:-1 tvg-id="Crave1 - East HD.ca" tvg-name="CA: CRAVE 1 HD" group-title="Movies",CA: CRAVE 1 HD
 http://tvscreen.icu:8080/0bXF3D/735200/57309
-#EXTINF:-1 tvg-id="crave2.ca" tvg-name="CA: CRAVE 2 HD" group-title="Movies",CA: CRAVE 2 HD
+#EXTINF:-1 tvg-id="Crave2 - East HD.ca" tvg-name="CA: CRAVE 2 HD" group-title="Movies",CA: CRAVE 2 HD
 http://tvscreen.icu:8080/0bXF3D/735200/57310
-#EXTINF:-1 tvg-id="crave3.ca" tvg-name="CA: CRAVE 3" group-title="Movies",CA: CRAVE 3
+#EXTINF:-1 tvg-id="Crave3 - East HD.ca" tvg-name="CA: CRAVE 3" group-title="Movies",CA: CRAVE 3
 http://tvscreen.icu:8080/0bXF3D/735200/57322
-#EXTINF:-1 tvg-id="crave4.ca" tvg-name="CA: CRAVE 4 HD" group-title="Movies",CA: CRAVE 4 HD
+#EXTINF:-1 tvg-id="Crave4 HD.ca" tvg-name="CA: CRAVE 4 HD" group-title="Movies",CA: CRAVE 4 HD
 http://tvscreen.icu:8080/0bXF3D/735200/57311
-#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="CA: CRIME & INVESTIGATION" group-title="CANADA",CA: CRIME & INVESTIGATION
+#EXTINF:-1 tvg-id="Crime + Investigation Canada HD.us" tvg-name="CA: CRIME & INVESTIGATION" group-title="CANADA",CA: CRIME & INVESTIGATION
 http://tvscreen.icu:8080/0bXF3D/735200/57256
-#EXTINF:-1 tvg-id="ctvcomedyeast.ca" tvg-name="CA CTV Comedy Channel " group-title="CANADA",CA; CTV Comedy Channel
+#EXTINF:-1 tvg-id="CTV Comedy - East HD.ca" tvg-name="CA CTV Comedy Channel " group-title="CANADA",CA; CTV Comedy Channel
 http://tvscreen.icu:8080/0bXF3D/735200/57408
-#EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="CA CTV Drama Channel (R)" group-title="CANADA",CA: CTV Drama Channel (R)
+#EXTINF:-1 tvg-id="CTV Drama HD.us" tvg-name="CA CTV Drama Channel (R)" group-title="CANADA",CA: CTV Drama Channel (R)
 http://tvscreen.icu:8080/0bXF3D/735200/57254
-#EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-name="CA CTV Sci-Fi Channel (B)" group-title="CANADA",CA: CTV Sci-Fi Channel (B)
+#EXTINF:-1 tvg-id="CTV Sci-Fi HD.ca" tvg-name="CA CTV Sci-Fi Channel (B)" group-title="CANADA",CA: CTV Sci-Fi Channel (B)
 http://tvscreen.icu:8080/0bXF3D/735200/57253
-#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV Toronto HD (R)" group-title="CANADA",CA: CTV Toronto HD (R)
+#EXTINF:-1 tvg-id="ctv toronto hdtv.ca" tvg-name="CA CTV Toronto HD (R)" group-title="CANADA",CA: CTV Toronto HD (R)
 http://tvscreen.icu:8080/0bXF3D/735200/47296
-#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="CA Discovery Channel " group-title="CANADA",CA: Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Family Channel HD.us" tvg-name="CA Discovery Channel " group-title="CANADA",CA: Discovery Channel
 http://tvscreen.icu:8080/0bXF3D/735200/57252
 #EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="CA: Discovery Science" group-title="CANADA",CA: Discovery Science
 http://tvscreen.icu:8080/0bXF3D/735200/57418
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA: DIY NETWORK FHD" group-title="CANADA",CA: DIY NETWORK FHD
 http://tvscreen.icu:8080/0bXF3D/735200/47258
-#EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA FOX NEWS" group-title="News",CA: FOX NEWS
+#EXTINF:-1 tvg-id="Fox News.ca" tvg-name="CA FOX NEWS" group-title="News",CA: FOX NEWS
 http://tvscreen.icu:8080/0bXF3D/735200/47281
-#EXTINF:-1 tvg-id="fx.ca" tvg-name="CA: FX HD" group-title="Movies",CA: FX HD
+#EXTINF:-1 tvg-id="FX Movie Channel HD.us" tvg-name="CA: FX HD" group-title="Movies",CA: FX HD
 http://tvscreen.icu:8080/0bXF3D/735200/57268
-#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA FXX " group-title="Movies",CA: FXX
+#EXTINF:-1 tvg-id="FXX Canada HD.us" tvg-name="CA FXX " group-title="Movies",CA: FXX
 http://tvscreen.icu:8080/0bXF3D/735200/57429
-#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA Game Show Network HD" group-title="CANADA",CA: Game Show Network HD
+#EXTINF:-1 tvg-id="Game Show Network - East HD.ca" tvg-name="CA Game Show Network HD" group-title="CANADA",CA: Game Show Network HD
 http://tvscreen.icu:8080/0bXF3D/735200/57430
-#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA: GLOBAL TORONTO" group-title="CANADA",CA: GLOBAL TORONTO
+#EXTINF:-1 tvg-id="Global (CIII-DT-41) Toronto.ca" tvg-name="CA: GLOBAL TORONTO" group-title="CANADA",CA: GLOBAL TORONTO
 http://tvscreen.icu:8080/0bXF3D/735200/57302
-#EXTINF:-1 tvg-id="hbo.ca" tvg-name="CA: HBO 1 " group-title="Movies",CA: HBO 1
+#EXTINF:-1 tvg-id="HBO1 HD.ca" tvg-name="CA: HBO 1 " group-title="Movies",CA: HBO 1
 http://tvscreen.icu:8080/0bXF3D/735200/57437
-#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA HBO 2 (R)" group-title="Movies",CA: HBO 2 (R)
+#EXTINF:-1 tvg-id="HBO Canada 2 - West.ca" tvg-name="CA HBO 2 (R)" group-title="Movies",CA: HBO 2 (R)
 http://tvscreen.icu:8080/0bXF3D/735200/57438
-#EXTINF:-1 tvg-id="hgtv.ca" tvg-name="CA HGTV " group-title="CANADA",CA: HGTV
+#EXTINF:-1 tvg-id="Home and Garden Television (East).us" tvg-name="CA HGTV " group-title="CANADA",CA: HGTV
 http://tvscreen.icu:8080/0bXF3D/735200/57273
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name="CA: Lifetime Movie Network" group-title="Movies",CA: Lifetime Movie Network
+#EXTINF:-1 tvg-id="Lifetime TV - Canada HD.ca" tvg-name="CA: Lifetime Movie Network" group-title="Movies",CA: Lifetime Movie Network
 http://tvscreen.icu:8080/0bXF3D/735200/57444
-#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA: MOVIETIME HD" group-title="Movies",CA: MOVIETIME HD
+#EXTINF:-1 tvg-id="MovieTime HD.ca" tvg-name="CA: MOVIETIME HD" group-title="Movies",CA: MOVIETIME HD
 http://tvscreen.icu:8080/0bXF3D/735200/47331
-#EXTINF:-1 tvg-id="msnbc.us" tvg-name="CA MSNBC (R)" group-title="CANADA",CA: MSNBC (R)
+#EXTINF:-1 tvg-id="MSNBC Canada.ca" tvg-name="CA MSNBC (R)" group-title="CANADA",CA: MSNBC (R)
 http://tvscreen.icu:8080/0bXF3D/735200/47332
-#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA: National Geographic  HD" group-title="CANADA",CA: National Geographic  HD
+#EXTINF:-1 tvg-id="National Geographic Canada HD.us" tvg-name="CA: National Geographic  HD" group-title="CANADA",CA: National Geographic  HD
 http://tvscreen.icu:8080/0bXF3D/735200/47338
-#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA: NFL NETWORK HD" group-title="Sports",CA: NFL NETWORK HD
+#EXTINF:-1 tvg-id="NFL Network HD.ca" tvg-name="CA: NFL NETWORK HD" group-title="Sports",CA: NFL NETWORK HD
 http://tvscreen.icu:8080/0bXF3D/735200/47346
-#EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA: Showcase HD" group-title="Movies",CA: Showcase HD
+#EXTINF:-1 tvg-id="Showcase Canada HD.us" tvg-name="CA: Showcase HD" group-title="Movies",CA: Showcase HD
 http://tvscreen.icu:8080/0bXF3D/735200/47366
-#EXTINF:-1 tvg-id="slice.ca" tvg-name="CA Slice TV " group-title="CANADA",CA: Slice TV
+#EXTINF:-1 tvg-id="Slice.ca" tvg-name="CA Slice TV " group-title="CANADA",CA: Slice TV
 http://tvscreen.icu:8080/0bXF3D/735200/57274
-#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360 (HD)" group-title="Sports",CA: Sportsnet 360 (HD)
+#EXTINF:-1 tvg-id="Sportsnet 360 HD.ca" tvg-name="CA Sportsnet 360 (HD)" group-title="Sports",CA: Sportsnet 360 (HD)
 http://tvscreen.icu:8080/0bXF3D/735200/57299
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One (FHD) " group-title="Sports",CA: Sportsnet One (FHD)
+#EXTINF:-1 tvg-id="Sportsnet One HD.ca" tvg-name="CA Sportsnet One (FHD) " group-title="Sports",CA: Sportsnet One (FHD)
 http://tvscreen.icu:8080/0bXF3D/735200/57297
-#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA Sportsnet One (HD) " group-title="Sports",CA: Sportsnet One (HD)
+#EXTINF:-1 tvg-id="Sportsnet One HD.ca" tvg-name="CA Sportsnet One (HD) " group-title="Sports",CA: Sportsnet One (HD)
 http://tvscreen.icu:8080/0bXF3D/735200/47379
-#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA Sportsnet Ontario HD " group-title="Sports",CA: Sportsnet Ontario HD
+#EXTINF:-1 tvg-id="Sportsnet (Ontario) - Satellite/Digital HD.ca" tvg-name="CA Sportsnet Ontario HD " group-title="Sports",CA: Sportsnet Ontario HD
 http://tvscreen.icu:8080/0bXF3D/735200/57296
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="CA CTV SCI-FI " group-title="CANADA",CA: CTV SCI-FI
 http://tvscreen.icu:8080/0bXF3D/735200/57464
-#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA TLC " group-title="CANADA",CA: TLC
+#EXTINF:-1 tvg-id="TLC Canada HD.us" tvg-name="CA TLC " group-title="CANADA",CA: TLC
 http://tvscreen.icu:8080/0bXF3D/735200/57290
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (R)" group-title="Sports",CA: TSN 1 (R)
+#EXTINF:-1 tvg-id="TSN1 HD.us" tvg-name="CA TSN 1 (R)" group-title="Sports",CA: TSN 1 (R)
 http://tvscreen.icu:8080/0bXF3D/735200/47440
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " group-title="Sports",CA: TSN 2 HD
+#EXTINF:-1 tvg-id="TSN2 HD.us" tvg-name="CA TSN 2 HD " group-title="Sports",CA: TSN 2 HD
 http://tvscreen.icu:8080/0bXF3D/735200/47442
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports",CA: TSN 3 HD
+#EXTINF:-1 tvg-id="TSN3 HD.us" tvg-name="CA TSN 3 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="Sports",CA: TSN 3 HD
 http://tvscreen.icu:8080/0bXF3D/735200/10389
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " group-title="Sports",CA: TSN 4
+#EXTINF:-1 tvg-id="TSN4 HD.us" tvg-name="CA TSN 4 " group-title="Sports",CA: TSN 4
 http://tvscreen.icu:8080/0bXF3D/735200/66783
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 (B)" group-title="Sports",CA: TSN 4 (B)
+#EXTINF:-1 tvg-id="TSN4 HD.us" tvg-name="CA TSN 4 (B)" group-title="Sports",CA: TSN 4 (B)
 http://tvscreen.icu:8080/0bXF3D/735200/47446
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " group-title="Sports",CA: TSN 5
+#EXTINF:-1 tvg-id="TSN5 HD.us" tvg-name="CA TSN 5 " group-title="Sports",CA: TSN 5
 http://tvscreen.icu:8080/0bXF3D/735200/57467
-#EXTINF:-1 tvg-id="tvo.ca" tvg-name="CA: TV Ontario HD" group-title="CANADA",CA: TV Ontario HD
+#EXTINF:-1 tvg-id="TVO (TV Ontario) HD.us" tvg-name="CA: TV Ontario HD" group-title="CANADA",CA: TV Ontario HD
 http://tvscreen.icu:8080/0bXF3D/735200/57369
-#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA W Network East (E)" group-title="CANADA",CA: W Network East (E)
+#EXTINF:-1 tvg-id="W Network (East).ca" tvg-name="CA W Network East (E)" group-title="CANADA",CA: W Network East (E)
 http://tvscreen.icu:8080/0bXF3D/735200/57284
-#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA: Weather Network Toronto" group-title="CANADA",CA: Weather Network Toronto
+#EXTINF:-1 tvg-id="Weather Network (Toronto) HD.us" tvg-name="CA: Weather Network Toronto" group-title="CANADA",CA: Weather Network Toronto
 http://tvscreen.icu:8080/0bXF3D/735200/57470
 #EXTINF:-1 tvg-id="cookingchannel.ca" tvg-name="CA COOKING Channel " group-title="CANADA",CA: COOKING Channel
 http://tvscreen.icu:8080/0bXF3D/735200/107960
