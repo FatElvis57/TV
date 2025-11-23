@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NHL Network USA HD.us" tvg-name="US NHL Network " tvg-logo="https://w0.pngwave.com/png/667/452/national-hockey-league-ice-hockey-stanley-cup-playoffs-logo-1967-nhl-expansion-nhl-logo-png-clip-art.png" group-title="Sports",US: NHL Network
 http://tvscreen.icu:8080/0bXF3D/735200/20179
-#EXTINF:-1 tvg-name="NBA TV Canada TV HD.ca" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="Sports",CA: NBA TV
-http://tvscreen.icu:8080/0bXF3D/735200/22995
 #EXTINF:-1 tvg-id="NBA TV USA HD.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="Sports",US: NBA TV
 http://tvscreen.icu:8080/0bXF3D/735200/20073
 #EXTINF:-1 tvg-id="MLB Network HD.us" tvg-name="MLB Network" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="Sports",MLB Network
@@ -227,7 +225,7 @@ http://tvscreen.icu:8080/0bXF3D/735200/57260
 http://tvscreen.icu:8080/0bXF3D/735200/57306
 #EXTINF:-1 tvg-id="chch.ca" tvg-name="CA CHCH (E)" group-title="News",CA: CHCH (E)
 http://tvscreen.icu:8080/0bXF3D/735200/57393
-#EXTINF:-1 tvg-id="CITY Toronto, ON HD.us" tvg-name="CA: CITY TV TORONTO HD" group-title="News",CA: CITY TV TORONTO HD
+#EXTINF:-1 tvg-id="Global (CIII-DT-41) Toronto.ca" tvg-name="CA: CITY TV TORONTO HD" group-title="News",CA: CITY TV TORONTO HD
 http://tvscreen.icu:8080/0bXF3D/735200/57307
 #EXTINF:-1 tvg-id="CMT Canada HD.us" tvg-name="CA CMT" group-title="CANADA",CA: CMT
 http://tvscreen.icu:8080/0bXF3D/735200/57258
@@ -239,13 +237,13 @@ http://tvscreen.icu:8080/0bXF3D/735200/57357
 http://tvscreen.icu:8080/0bXF3D/735200/57401
 #EXTINF:-1 tvg-id="CP24 (CablePulse 24) HD.us" tvg-name="CA: CP24 HD" group-title="News",CA: CP24 HD
 http://tvscreen.icu:8080/0bXF3D/735200/57257
-#EXTINF:-1 tvg-id="Crave1 - East HD.ca" tvg-name="CA: CRAVE 1 HD" group-title="Movies",CA: CRAVE 1 HD
+#EXTINF:-1 tvg-id="Crave2 - East HD.ca" tvg-name="CA: CRAVE 1 HD" group-title="Movies",CA: CRAVE 1 HD
 http://tvscreen.icu:8080/0bXF3D/735200/57309
-#EXTINF:-1 tvg-id="Crave2 - East HD.ca" tvg-name="CA: CRAVE 2 HD" group-title="Movies",CA: CRAVE 2 HD
+#EXTINF:-1 tvg-id="Crave1 - East HD.ca" tvg-name="CA: CRAVE 2 HD" group-title="Movies",CA: CRAVE 2 HD
 http://tvscreen.icu:8080/0bXF3D/735200/57310
 #EXTINF:-1 tvg-id="Crave3 - East HD.ca" tvg-name="CA: CRAVE 3" group-title="Movies",CA: CRAVE 3
 http://tvscreen.icu:8080/0bXF3D/735200/57322
-#EXTINF:-1 tvg-id="Crave4 HD.ca" tvg-name="CA: CRAVE 4 HD" group-title="Movies",CA: CRAVE 4 HD
+#EXTINF:-1 tvg-id="HBO1 HD.ca" tvg-name="CA: CRAVE 4 HD" group-title="Movies",CA: CRAVE 4 HD
 http://tvscreen.icu:8080/0bXF3D/735200/57311
 #EXTINF:-1 tvg-id="Crime + Investigation Canada HD.us" tvg-name="CA: CRIME & INVESTIGATION" group-title="CANADA",CA: CRIME & INVESTIGATION
 http://tvscreen.icu:8080/0bXF3D/735200/57256
