@@ -97,7 +97,7 @@ http://tvscreen.icu:8080/0bXF3D/735200/12734
 http://tvscreen.icu:8080/0bXF3D/735200/10455
 #EXTINF:-1 tvg-id="truTV USA - East HD (1164).us" tvg-name="US TRUTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="USA",US: TRUTV East
 http://tvscreen.icu:8080/0bXF3D/735200/10224
-#EXTINF:-1 tvg-id="Turner Classic Movies Canada HD.us" tvg-name="CA Turner Classic Movies" group-title="Movies",CA: Turner Classic Movies
+#EXTINF:-1 tvg-id="Turner Classic Movies Canada HD.ca" tvg-name="CA Turner Classic Movies" group-title="Movies",CA: Turner Classic Movies
 http://tvscreen.icu:8080/0bXF3D/735200/66242
 #EXTINF:-1 tvg-id="TV Land (East).us" tvg-name="US TV Land" group-title="USA",US: TV Land
 http://tvscreen.icu:8080/0bXF3D/735200/46696
@@ -203,7 +203,7 @@ http://tvscreen.icu:8080/0bXF3D/735200/21091
 http://tvscreen.icu:8080/0bXF3D/735200/17774
 #EXTINF:-1 tvg-id="APTN HD.us" tvg-name="CA : APTN" group-title="CANADA",CA: APTN
 http://tvscreen.icu:8080/0bXF3D/735200/57320
-#EXTINF:-1 tvg-id="AAndE Canada HD.us" tvg-name="CA: A&E" group-title="CANADA",CA: A&E
+#EXTINF:-1 tvg-id="AAndE Canada HD.ca" tvg-name="CA: A&E" group-title="CANADA",CA: A&E
 http://tvscreen.icu:8080/0bXF3D/735200/57476
 #EXTINF:-1 tvg-id="aande.ca" tvg-name="CA A&E " group-title="CANADA",CA: A&E
 http://tvscreen.icu:8080/0bXF3D/735200/57264
@@ -215,11 +215,11 @@ http://tvscreen.icu:8080/0bXF3D/735200/57376
 http://tvscreen.icu:8080/0bXF3D/735200/57377
 #EXTINF:-1 tvg-id="BNN Bloomberg HD.us" tvg-name="CA: BNN Bloomberg HD" group-title="News",CA: BNN Bloomberg HD
 http://tvscreen.icu:8080/0bXF3D/735200/57358
-#EXTINF:-1 tvg-id="Bravo Canada HD.us" tvg-name="CA: Bravo" group-title="CANADA",CA: Bravo
+#EXTINF:-1 tvg-id="Bravo Canada HD.ca" tvg-name="CA: Bravo" group-title="CANADA",CA: Bravo
 http://tvscreen.icu:8080/0bXF3D/735200/57379
 #EXTINF:-1 tvg-id="CBC News Network HD.us" tvg-name="CA CBC NEWS NETWORK (E)" group-title="News",CA: CBC NEWS NETWORK (E)
 http://tvscreen.icu:8080/0bXF3D/735200/57304
-#EXTINF:-1 tvg-id="CBC (CBLT) Toronto, ON HD.us" tvg-name="CA CBC Toronto " group-title="CANADA",CA: CBC Toronto
+#EXTINF:-1 tvg-id="CBC (CBLT) Toronto, ON HD.ca" tvg-name="CA CBC Toronto " group-title="CANADA",CA: CBC Toronto
 http://tvscreen.icu:8080/0bXF3D/735200/57260
 #EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA: CBC TORONTO" group-title="CANADA",CA: CBC TORONTO
 http://tvscreen.icu:8080/0bXF3D/735200/57306
@@ -227,7 +227,7 @@ http://tvscreen.icu:8080/0bXF3D/735200/57306
 http://tvscreen.icu:8080/0bXF3D/735200/57393
 #EXTINF:-1 tvg-id="Global (CIII-DT-41) Toronto.ca" tvg-name="CA: CITY TV TORONTO HD" group-title="News",CA: CITY TV TORONTO HD
 http://tvscreen.icu:8080/0bXF3D/735200/57307
-#EXTINF:-1 tvg-id="CMT Canada HD.us" tvg-name="CA CMT" group-title="CANADA",CA: CMT
+#EXTINF:-1 tvg-id="CMT Canada HD.ca" tvg-name="CA CMT" group-title="CANADA",CA: CMT
 http://tvscreen.icu:8080/0bXF3D/735200/57258
 #EXTINF:-1 tvg-id="CNN HD.ca" tvg-name="CA CNN " group-title="News",CA: CNN
 http://tvscreen.icu:8080/0bXF3D/735200/47213
@@ -245,7 +245,7 @@ http://tvscreen.icu:8080/0bXF3D/735200/57310
 http://tvscreen.icu:8080/0bXF3D/735200/57322
 #EXTINF:-1 tvg-id="HBO1 HD.ca" tvg-name="CA: CRAVE 4 HD" group-title="Movies",CA: CRAVE 4 HD
 http://tvscreen.icu:8080/0bXF3D/735200/57311
-#EXTINF:-1 tvg-id="Crime + Investigation Canada HD.us" tvg-name="CA: CRIME & INVESTIGATION" group-title="CANADA",CA: CRIME & INVESTIGATION
+#EXTINF:-1 tvg-id="Crime + Investigation Canada HD.ca" tvg-name="CA: CRIME & INVESTIGATION" group-title="CANADA",CA: CRIME & INVESTIGATION
 http://tvscreen.icu:8080/0bXF3D/735200/57256
 #EXTINF:-1 tvg-id="CTV Comedy - East HD.ca" tvg-name="CA CTV Comedy Channel " group-title="CANADA",CA; CTV Comedy Channel
 http://tvscreen.icu:8080/0bXF3D/735200/57408
@@ -265,7 +265,7 @@ http://tvscreen.icu:8080/0bXF3D/735200/47258
 http://tvscreen.icu:8080/0bXF3D/735200/47281
 #EXTINF:-1 tvg-id="FX Movie Channel HD.us" tvg-name="CA: FX HD" group-title="Movies",CA: FX HD
 http://tvscreen.icu:8080/0bXF3D/735200/57268
-#EXTINF:-1 tvg-id="FXX Canada HD.us" tvg-name="CA FXX " group-title="Movies",CA: FXX
+#EXTINF:-1 tvg-id="FXX Canada HD.ca" tvg-name="CA FXX " group-title="Movies",CA: FXX
 http://tvscreen.icu:8080/0bXF3D/735200/57429
 #EXTINF:-1 tvg-id="Game Show Network - East HD.ca" tvg-name="CA Game Show Network HD" group-title="CANADA",CA: Game Show Network HD
 http://tvscreen.icu:8080/0bXF3D/735200/57430
@@ -283,7 +283,7 @@ http://tvscreen.icu:8080/0bXF3D/735200/57444
 http://tvscreen.icu:8080/0bXF3D/735200/47331
 #EXTINF:-1 tvg-id="MSNBC Canada.ca" tvg-name="CA MSNBC (R)" group-title="CANADA",CA: MSNBC (R)
 http://tvscreen.icu:8080/0bXF3D/735200/47332
-#EXTINF:-1 tvg-id="National Geographic Canada HD.us" tvg-name="CA: National Geographic  HD" group-title="CANADA",CA: National Geographic  HD
+#EXTINF:-1 tvg-id="National Geographic Canada HD.ca" tvg-name="CA: National Geographic  HD" group-title="CANADA",CA: National Geographic  HD
 http://tvscreen.icu:8080/0bXF3D/735200/47338
 #EXTINF:-1 tvg-id="NFL Network HD.ca" tvg-name="CA: NFL NETWORK HD" group-title="Sports",CA: NFL NETWORK HD
 http://tvscreen.icu:8080/0bXF3D/735200/47346
@@ -301,7 +301,7 @@ http://tvscreen.icu:8080/0bXF3D/735200/47379
 http://tvscreen.icu:8080/0bXF3D/735200/57296
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="CA CTV SCI-FI " group-title="CANADA",CA: CTV SCI-FI
 http://tvscreen.icu:8080/0bXF3D/735200/57464
-#EXTINF:-1 tvg-id="TLC Canada HD.us" tvg-name="CA TLC " group-title="CANADA",CA: TLC
+#EXTINF:-1 tvg-id="TLC Canada HD.ca" tvg-name="CA TLC " group-title="CANADA",CA: TLC
 http://tvscreen.icu:8080/0bXF3D/735200/57290
 #EXTINF:-1 tvg-id="TSN1 HD.us" tvg-name="CA TSN 1 (R)" group-title="Sports",CA: TSN 1 (R)
 http://tvscreen.icu:8080/0bXF3D/735200/47440
