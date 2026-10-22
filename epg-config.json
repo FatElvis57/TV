@@ -9,7 +9,7 @@
   "sources": [
     {
       "name": "EPG Source 1",
-      "url": "REPLACE_WITH_FIRST_XMLTV_URL",
+      "url": "https://i.mjh.nz/PlutoTV/ca.xml",
       "enabled": true,
       "priority": 1,
       "format": "auto",
@@ -17,7 +17,7 @@
     },
     {
       "name": "EPG Source 2",
-      "url": "REPLACE_WITH_SECOND_XMLTV_URL",
+      "url": "https://i.mjh.nz/PlutoTV/us.xml",
       "enabled": true,
       "priority": 2,
       "format": "auto",
@@ -25,7 +25,7 @@
     },
     {
       "name": "EPG Source 3",
-      "url": "REPLACE_WITH_THIRD_XMLTV_URL",
+      "url": "https://i.mjh.nz/PlutoTV/uk.xml",
       "enabled": true,
       "priority": 3,
       "format": "auto",
