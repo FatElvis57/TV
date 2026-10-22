@@ -108,6 +108,7 @@ def parse_m3u(data):
                 "tvg_id": attrs.get("tvg-id", "").strip(),
                 "tvg_name": attrs.get("tvg-name", "").strip(),
                 "name": display,
+                "tvg_logo": attrs.get("tvg-logo", "").strip(),
                 "url": "",
             }
         elif line and not line.startswith("#") and pending is not None:
