@@ -25,7 +25,7 @@
     },
     {
       "name": "EPG Source 3",
-      "url": "https://i.mjh.nz/PlutoTV/uk.xml",
+      "url": "https://i.mjh.nz/PlutoTV/gb.xml",
       "enabled": true,
       "priority": 3,
       "format": "auto",
