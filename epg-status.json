@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-22T04:35:37.964431+00:00",
+  "generated_at_utc": "2026-10-22T04:39:04.661410+00:00",
   "result": "success",
   "sources": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "EPG Source 3",
-      "url": "https://i.mjh.nz/PlutoTV/gb.xml",
+      "url": "https://i.mjh.nz/PlutoTV/uk.xml",
       "result": "failed",
       "error": "HTTP Error 404: Not Found"
     }
