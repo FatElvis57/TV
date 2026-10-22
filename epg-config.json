@@ -1,0 +1,35 @@
+
+{
+  "playlist_url": "https://raw.githubusercontent.com/FatElvis57/TV/main/Channels",
+  "output_file": "Guide.xml",
+  "timezone": "UTC",
+  "programme_days_past": 1,
+  "programme_days_future": 7,
+  "minimum_valid_programmes": 1,
+  "sources": [
+    {
+      "name": "EPG Source 1",
+      "url": "REPLACE_WITH_FIRST_XMLTV_URL",
+      "enabled": true,
+      "priority": 1,
+      "format": "auto",
+      "channel_id_map": {}
+    },
+    {
+      "name": "EPG Source 2",
+      "url": "REPLACE_WITH_SECOND_XMLTV_URL",
+      "enabled": true,
+      "priority": 2,
+      "format": "auto",
+      "channel_id_map": {}
+    },
+    {
+      "name": "EPG Source 3",
+      "url": "REPLACE_WITH_THIRD_XMLTV_URL",
+      "enabled": true,
+      "priority": 3,
+      "format": "auto",
+      "channel_id_map": {}
+    }
+  ]
+}
