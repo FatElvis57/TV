@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-26T14:16:25.241856+00:00",
+  "generated_at_utc": "2026-10-27T13:12:33.462410+00:00",
   "result": "success",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "url": "https://i.mjh.nz/PlutoTV/ca.xml",
       "result": "downloaded",
       "source_channels": 235,
-      "source_programmes": 6090,
+      "source_programmes": 6083,
       "matched_channels": 94
     },
     {
@@ -23,13 +23,13 @@
       "url": "https://i.mjh.nz/PlutoTV/gb.xml",
       "result": "downloaded",
       "source_channels": 186,
-      "source_programmes": 4464,
+      "source_programmes": 4524,
       "matched_channels": 55
     }
   ],
   "playlist_channels": 857,
   "matched_channels": 230,
-  "programme_count": 6936,
+  "programme_count": 6943,
   "unmatched_channels": [
     "24 Hour Free Movies (720p)",
     "Classic Cinema (240p) [Not 24/7]",
@@ -627,5 +627,5 @@
   ],
   "warnings": [],
   "output_file": "Guide.xml",
-  "output_bytes": 6145127
+  "output_bytes": 6141763
 }
