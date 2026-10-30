@@ -1,35 +1,35 @@
 {
-  "generated_at_utc": "2026-10-29T14:19:26.482834+00:00",
+  "generated_at_utc": "2026-10-30T14:08:13.454368+00:00",
   "result": "success",
   "sources": [
     {
       "name": "EPG Source 1",
       "url": "https://i.mjh.nz/PlutoTV/ca.xml",
       "result": "downloaded",
-      "source_channels": 235,
-      "source_programmes": 6078,
-      "matched_channels": 94
+      "source_channels": 236,
+      "source_programmes": 6092,
+      "matched_channels": 95
     },
     {
       "name": "EPG Source 2",
       "url": "https://i.mjh.nz/PlutoTV/us.xml",
       "result": "downloaded",
-      "source_channels": 432,
-      "source_programmes": 8923,
+      "source_channels": 433,
+      "source_programmes": 8906,
       "matched_channels": 160
     },
     {
       "name": "EPG Source 3",
       "url": "https://i.mjh.nz/PlutoTV/gb.xml",
       "result": "downloaded",
-      "source_channels": 186,
-      "source_programmes": 4504,
-      "matched_channels": 55
+      "source_channels": 183,
+      "source_programmes": 4378,
+      "matched_channels": 54
     }
   ],
   "playlist_channels": 857,
-  "matched_channels": 230,
-  "programme_count": 6902,
+  "matched_channels": 229,
+  "programme_count": 6904,
   "unmatched_channels": [
     "24 Hour Free Movies (720p)",
     "Classic Cinema (240p) [Not 24/7]",
@@ -270,6 +270,7 @@
     "Tele Boston (480p)",
     "Telemundo Corpus Christi (720p)",
     "The Graham Norton Show (1080p)",
+    "The Yellow Couch with Jeremy Lynch",
     "Tin TV (720p)",
     "TMZ (1080p) [Geo-blocked]",
     "Turismo HD (720p)",
@@ -627,5 +628,5 @@
   ],
   "warnings": [],
   "output_file": "Guide.xml",
-  "output_bytes": 6115532
+  "output_bytes": 6130434
 }
