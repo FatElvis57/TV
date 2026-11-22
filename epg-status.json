@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-21T15:21:57.687792+00:00",
+  "generated_at_utc": "2026-11-22T15:16:45.898058+00:00",
   "result": "success",
   "sources": [
     {
@@ -7,7 +7,7 @@
       "url": "https://i.mjh.nz/PlutoTV/ca.xml",
       "result": "downloaded",
       "source_channels": 249,
-      "source_programmes": 6383,
+      "source_programmes": 6367,
       "matched_channels": 95
     },
     {
@@ -15,7 +15,7 @@
       "url": "https://i.mjh.nz/PlutoTV/us.xml",
       "result": "downloaded",
       "source_channels": 458,
-      "source_programmes": 9264,
+      "source_programmes": 9257,
       "matched_channels": 160
     },
     {
@@ -23,7 +23,7 @@
       "url": "https://i.mjh.nz/PlutoTV/gb.xml",
       "result": "downloaded",
       "source_channels": 183,
-      "source_programmes": 4237,
+      "source_programmes": 4240,
       "matched_channels": 55
     }
   ],
@@ -628,5 +628,5 @@
   ],
   "warnings": [],
   "output_file": "Guide.xml",
-  "output_bytes": 6092906
+  "output_bytes": 6105019
 }
